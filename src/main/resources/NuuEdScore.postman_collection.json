@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "74137eeb-f09e-4b27-a633-c8ce10e8ac94",
+		"name": "NuuEdScore",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "person  sign_up",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"firstName\": \"El\",\r\n    \"lastName\": \"Saltamontes\",\r\n    \"username\": \"user1\",\r\n    \"email\": \"user@mail\",\r\n    \"password\": \"password\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8081/person/sign_up",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"person",
+						"sign_up"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

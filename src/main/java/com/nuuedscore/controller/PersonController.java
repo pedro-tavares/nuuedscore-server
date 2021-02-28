@@ -34,9 +34,9 @@ public class PersonController extends BaseController {
 	IPersonService personService;
 
 	/**
-	 * Get all People
+	 * Get all 
 	 * 
-	 * @return all the People
+	 * @return all the Person
 	 */
     @GetMapping("/")
     public ResponseEntity<List<Person>> all() {

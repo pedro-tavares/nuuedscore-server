@@ -37,7 +37,7 @@ public class BaseController implements ApplicationContextAware {
     @GetMapping()
     Map<String, String> index(){
         Map<String, String> map = new HashMap<String, String>();
-        map.put("title", "Home Page Employee Manager.");
+        map.put("title", "Home Page NuuEdScore.");
         map.put("date", new Date().toString());
         return  map;
     }

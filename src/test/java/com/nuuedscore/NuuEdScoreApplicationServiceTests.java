@@ -46,5 +46,5 @@ class NuuEdScoreApplicationServiceTests {
 			log.error(ExceptionUtils.getMessage(e));
 		}
 	}
-	
+
 }

@@ -9,6 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
@@ -21,6 +22,7 @@ import lombok.ToString;
  * @since Feb 2021
  * 
  */
+@Data
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = false)
 @ToString

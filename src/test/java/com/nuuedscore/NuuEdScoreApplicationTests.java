@@ -1,8 +1,8 @@
 package com.nuuedscore;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.core.annotation.Order;
+
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * NuuED SCORE Application Tests   
@@ -11,11 +11,6 @@ import org.springframework.core.annotation.Order;
  * @since Feb 2021
  * 
  */
+@Slf4j
 @SpringBootTest
-class NuuEdScoreApplicationTests {
-
-	@Test
-	@Order(1)
-	void contextLoads() {}
-
-}
+class NuuEdScoreApplicationTests {}

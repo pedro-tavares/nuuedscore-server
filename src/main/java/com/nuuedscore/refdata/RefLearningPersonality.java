@@ -8,7 +8,7 @@ package com.nuuedscore.refdata;
  * @since Feb 2021
  * 
  */
-public enum LearningPersonality {
+public enum RefLearningPersonality {
 	
 	VISUAL("VISUAL"), 
 	AURAL("AURAL"), 
@@ -21,7 +21,7 @@ public enum LearningPersonality {
 
 	private String learningPersonality;
 
-	LearningPersonality(String learningPersonality) {
+	RefLearningPersonality(String learningPersonality) {
 		this.learningPersonality = learningPersonality;
 	}
 

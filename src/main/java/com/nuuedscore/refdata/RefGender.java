@@ -8,7 +8,7 @@ package com.nuuedscore.refdata;
  * @since Feb 2021
  * 
  */
-public enum Gender {
+public enum RefGender {
 	
 	FEMALE("Female"), 
 	MALE("Male"),
@@ -16,7 +16,7 @@ public enum Gender {
 
 	private String gender;
 
-	Gender(String gender) {
+	RefGender(String gender) {
 		this.gender = gender;
 	}
 

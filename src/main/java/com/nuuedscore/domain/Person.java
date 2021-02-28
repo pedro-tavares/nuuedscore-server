@@ -24,10 +24,10 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.nuuedscore.refdata.Gender;
-import com.nuuedscore.refdata.LearningPersonality;
+import com.nuuedscore.refdata.RefGender;
+import com.nuuedscore.refdata.RefLearningPersonality;
 import com.nuuedscore.refdata.NuuEdScoreConstants;
-import com.nuuedscore.refdata.PersonStatus;
+import com.nuuedscore.refdata.RefPersonStatus;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -73,10 +73,10 @@ public class Person extends BaseDomain implements UserDetails {
 	@Column(nullable=false)
     private String password;
 	@Enumerated(EnumType.STRING)
-	private Gender gender;
+	private RefGender refGender;
 	@Enumerated(EnumType.STRING)
 	@Column(name = "learning_personality")
-	private LearningPersonality learningPersonality;
+	private RefLearningPersonality refLearningPersonality;
 	@Column(name = "phone_number")
     private String phoneNumber;
 	private String organization;
@@ -91,7 +91,7 @@ public class Person extends BaseDomain implements UserDetails {
 	@Column(name = "create_by_id")
 	private Integer createById;
 	@Enumerated(EnumType.STRING)
-    private PersonStatus status;
+    private RefPersonStatus status;
     @Column(name = "created_on")
     private LocalDateTime createdOn;
     @Column(name = "updated_on")
@@ -118,8 +118,8 @@ public class Person extends BaseDomain implements UserDetails {
     		username,
     		email,
     		password,
-    		Gender.OTHER, // gender
-    		LearningPersonality.ALL, // learningPersonality
+    		RefGender.OTHER, // gender
+    		RefLearningPersonality.ALL, // learningPersonality
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -128,7 +128,7 @@ public class Person extends BaseDomain implements UserDetails {
     		null, // birthday
     		"", // school
     		0, // createById 
-    		PersonStatus.ACTIVE, // status
+    		RefPersonStatus.ACTIVE, // status
     		null, // created_on
     		null, // updated_on
     		null // roles
@@ -178,14 +178,14 @@ public class Person extends BaseDomain implements UserDetails {
 	@PrePersist
 	public void prePersist() {
 	    log.info("prePersist...");
-	    if (this.gender == null) {
-	    	this.gender = Gender.OTHER;
+	    if (this.refGender == null) {
+	    	this.refGender = RefGender.OTHER;
 	    }
-	    if (this.learningPersonality == null) {
-	    	this.learningPersonality = LearningPersonality.ALL;
+	    if (this.refLearningPersonality == null) {
+	    	this.refLearningPersonality = RefLearningPersonality.ALL;
 	    }
 	    if (this.status == null) {
-	    	this.status = PersonStatus.ACTIVE;
+	    	this.status = RefPersonStatus.ACTIVE;
 	    }
 	    this.setCreatedOn(LocalDateTime.now());
 	}

@@ -8,14 +8,14 @@ package com.nuuedscore.refdata;
  * @since Feb 2021
  * 
  */
-public enum PersonStatus {
+public enum RefPersonStatus {
 	
 	ACTIVE("Active"), 
 	INACTIVE("Inactive");
 
 	private String status;
 
-	PersonStatus(String status) {
+	RefPersonStatus(String status) {
 		this.status = status;
 	}
 

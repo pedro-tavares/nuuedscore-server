@@ -15,9 +15,9 @@ import com.nuuedscore.domain.Person;
 public interface PersonRepository extends JpaRepository<Person, Long> {
 
     @Query("SELECT p FROM Person p WHERE p.username = :usernameToFind")
-    public Person findByUsername(String usernameToFind);
+    Person findByUsername(String usernameToFind);
 	
     @Query("SELECT p FROM Person p WHERE p.email = :emailToFind")
-    public Person findByEmail(String emailToFind);
+    Person findByEmail(String emailToFind);
 
 }

@@ -4,9 +4,10 @@ import java.time.LocalDateTime;
 import java.util.Collection;
 import java.util.Date;
 
-import javax.persistence.Basic;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -15,13 +16,12 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
-import javax.persistence.Temporal;
-import javax.persistence.TemporalType;
 import javax.persistence.Transient;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import com.nuuedscore.refdata.Gender;
 import com.nuuedscore.refdata.NuuEdScoreConstants;
 import com.nuuedscore.refdata.PersonStatus;
 
@@ -68,7 +68,8 @@ public class Person extends BaseDomain implements UserDetails {
     private String email;
 	@Column(nullable=false)
     private String password;
-	private Integer gender;
+	@Enumerated(EnumType.STRING)
+	private Gender gender;
 	@Column(name = "phone_number")
     private String phoneNumber;
 	private String organization;
@@ -82,13 +83,13 @@ public class Person extends BaseDomain implements UserDetails {
 	private String school;
 	@Column(name = "create_by_id")
 	private Integer createById;
-    private String status;
+	@Enumerated(EnumType.STRING)
+    private PersonStatus status;
     @Column(name = "created_on")
     private LocalDateTime createdOn;
     @Column(name = "updated_on")
     private LocalDateTime updatedOn;
     
-    // Person Roles
     @ManyToMany 
     @JoinTable( 
     	name = "persons_roles", 
@@ -110,7 +111,7 @@ public class Person extends BaseDomain implements UserDetails {
     		username,
     		email,
     		password,
-    		0, // gender
+    		Gender.OTHER, // gender
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -118,8 +119,8 @@ public class Person extends BaseDomain implements UserDetails {
     		"", // typeDevice
     		null, // birthday
     		"", // school
-    		0, // createById
-    		PersonStatus.ACTIVE.toString(),
+    		0, // createById 
+    		PersonStatus.ACTIVE, // status
     		null, // created_on
     		null, // updated_on
     		null // roles
@@ -167,11 +168,17 @@ public class Person extends BaseDomain implements UserDetails {
  	}
 
 	/*
-	 * Timestamps
+	 * LifeCycle
 	 */
 	@PrePersist
 	public void prePersist() {
 	    log.info("prePersist...");
+	    if (this.gender == null) {
+	    	this.gender = Gender.OTHER;
+	    }
+	    if (this.status == null) {
+	    	this.status = PersonStatus.ACTIVE;
+	    }
 	    this.setCreatedOn(LocalDateTime.now());
 	}
 

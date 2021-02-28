@@ -22,6 +22,7 @@ import javax.persistence.Transient;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import com.nuuedscore.refdata.NuuEdScoreConstants;
 import com.nuuedscore.refdata.PersonStatus;
 
 import lombok.AllArgsConstructor;
@@ -96,6 +97,10 @@ public class Person extends BaseDomain implements UserDetails {
         inverseJoinColumns = @JoinColumn(
         name = "role_id", referencedColumnName = "id")) 
     private Collection<Role> roles;
+    
+    public Person(String email) {
+    	this(email, email, NuuEdScoreConstants.DEFAULT_PASSWORD);
+    }
     
     public Person(String username, String email, String password) {
     	this(

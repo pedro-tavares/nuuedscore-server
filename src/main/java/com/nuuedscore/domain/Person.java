@@ -1,8 +1,10 @@
 package com.nuuedscore.domain;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
+import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -19,6 +21,7 @@ import javax.persistence.PreUpdate;
 import javax.persistence.Transient;
 
 import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import com.nuuedscore.refdata.Gender;
@@ -139,12 +142,9 @@ public class Person extends BaseDomain implements UserDetails {
 
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
-		/*
 		List<GrantedAuthority> roles = new ArrayList<>();
-        roles.add(new SimpleGrantedAuthority(rol.toString()));
+        roles.add(new SimpleGrantedAuthority(this.roles.toString()));
         return roles;		
-        */
-        return null;
 	}
 
 	@Override

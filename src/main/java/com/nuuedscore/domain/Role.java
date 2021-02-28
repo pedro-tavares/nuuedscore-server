@@ -35,9 +35,11 @@ import lombok.extern.slf4j.Slf4j;
 @EqualsAndHashCode(callSuper = false)
 @ToString
 @Entity
-public class Role {
+public class Role extends BaseDomain {
 
-    @Id
+	private static final long serialVersionUID = 5570852700686895664L;
+
+	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 

@@ -27,9 +27,11 @@ import lombok.ToString;
 @EqualsAndHashCode(callSuper = false)
 @ToString
 @Entity
-public class Privilege {
+public class Privilege extends BaseDomain {
 
-    @Id
+	private static final long serialVersionUID = 2950405302158037473L;
+
+	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 

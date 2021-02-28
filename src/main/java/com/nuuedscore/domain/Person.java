@@ -25,6 +25,7 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import com.nuuedscore.refdata.Gender;
+import com.nuuedscore.refdata.LearningPersonality;
 import com.nuuedscore.refdata.NuuEdScoreConstants;
 import com.nuuedscore.refdata.PersonStatus;
 
@@ -73,6 +74,9 @@ public class Person extends BaseDomain implements UserDetails {
     private String password;
 	@Enumerated(EnumType.STRING)
 	private Gender gender;
+	@Enumerated(EnumType.STRING)
+	@Column(name = "learning_personality")
+	private LearningPersonality learningPersonality;
 	@Column(name = "phone_number")
     private String phoneNumber;
 	private String organization;
@@ -115,6 +119,7 @@ public class Person extends BaseDomain implements UserDetails {
     		email,
     		password,
     		Gender.OTHER, // gender
+    		LearningPersonality.ALL, // learningPersonality
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -175,6 +180,9 @@ public class Person extends BaseDomain implements UserDetails {
 	    log.info("prePersist...");
 	    if (this.gender == null) {
 	    	this.gender = Gender.OTHER;
+	    }
+	    if (this.learningPersonality == null) {
+	    	this.learningPersonality = LearningPersonality.ALL;
 	    }
 	    if (this.status == null) {
 	    	this.status = PersonStatus.ACTIVE;

@@ -62,7 +62,7 @@ public class DomainInitializer implements ApplicationContextAware {
 		 * LEARNING PERSONALITY
 		 */
 		for (RefLearningPersonality learningPersonality: RefLearningPersonality.values()) {
-			createLearningPersonalityIfNotFound(learningPersonality.learningPersonality());
+			createLearningPersonalityIfNotFound(learningPersonality.value());
 		}
 	}
 

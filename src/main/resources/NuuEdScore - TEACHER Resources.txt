@@ -1,0 +1,42 @@
+#
+#NuuEdScore - Teacher Resources 
+#
+#Learning Personality:
+#@TODO_LEARNING_PERSONALITY
+#Visual
+#Aural
+#Verbal
+#Social
+#Logical
+#Physical
+#Solitary
+#EGP
+#
+#Bloom's Taxonomy:
+#@TODO_BLOOM
+#Understand/Remember
+#Analyze/Apply
+#Evaluate/Create
+#
+#TOPIC,SCORE,LEARNING_PERSONALITY,BLOOM,SUBJECT,NAME,RESOURCE
+#
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MTBI Online,https://www.mbtionline.com/en-US/About-us
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Test Color,https://www.testcolor.com/
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Color Quiz,https://www.colorquiz.com
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,DISC Online,https://www.truity.com/test/disc-personality-test
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,EIQ,https://greatergood.berkeley.edu/quizzes/ei_quiz
+Personality Test,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,PATH TEST,https://www.goodjob.io/the-path-assessment-navigating-you-to-a-fulfilling-career
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,iPersonic,https://www.ipersonic.com/career
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,123 Test,https://www.123test.com/career-test/index.php
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,My Majors,https://www.mymajors.com
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MAPP,https://www.assessment.com
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Career Explorer,https://www.careerexplorer.com/career-test
+Career Aptitude,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Values Centre,https://www.valuescentre.com/tools-assessments/pva
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Education Planner,http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Study Gurus,https://www.thestudygurus.com/quiz/quiz.php?quiz=learning-styles
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,How to Study,https://www.how-to-study.com/learning-style-assessment
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Thoughtco,https://www.thoughtco.com/learning-style-quiz-4076781
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Emtrain,http://www.emtrain.eu/learning-styles/
+Learning Styles,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Try Interact,https://www.tryinteract.com/blog/learning-style-quiz
+Social Emotional Learning,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Panorama Ed,https://www.panoramaed.com/social-emotional-learning-sel
+Education Loans,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Education Loans,http://www.avanse.com

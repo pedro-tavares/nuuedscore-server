@@ -16,6 +16,7 @@
 	<packaging>war</packaging>
 	<name>nuuedscore-server</name>
 	<description>NuuEDSCORE Server</description>
+ 	<url>http://nuuedscore.com</url>
 
 	<developers>
         <developer>

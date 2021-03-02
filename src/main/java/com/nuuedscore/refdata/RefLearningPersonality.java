@@ -10,7 +10,7 @@ package com.nuuedscore.refdata;
  */
 public enum RefLearningPersonality {
 	
-	UNKNOWN("Unknown"),
+	TODO("TODO"),
 	VISUAL("Visual"), 
 	AURAL("Aural"), 
 	VERBAL("Verbal"),

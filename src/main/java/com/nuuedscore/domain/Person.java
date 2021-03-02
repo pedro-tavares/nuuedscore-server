@@ -96,7 +96,6 @@ public class Person extends BaseDomain implements UserDetails {
     private LocalDateTime createdOn;
     @Column(name = "updated_on")
     private LocalDateTime updatedOn;
-    
     @ManyToMany 
     @JoinTable( 
     	name = "persons_roles", 
@@ -119,7 +118,7 @@ public class Person extends BaseDomain implements UserDetails {
     		email,
     		password,
     		RefGender.NEUTRAL, // gender
-    		RefLearningPersonality.UNKNOWN, // learningPersonality
+    		RefLearningPersonality.TODO, // learningPersonality
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -182,7 +181,7 @@ public class Person extends BaseDomain implements UserDetails {
 	    	this.refGender = RefGender.NEUTRAL;
 	    }
 	    if (this.refLearningPersonality == null) {
-	    	this.refLearningPersonality = RefLearningPersonality.UNKNOWN;
+	    	this.refLearningPersonality = RefLearningPersonality.TODO;
 	    }
 	    if (this.status == null) {
 	    	this.status = RefPersonStatus.ACTIVE;

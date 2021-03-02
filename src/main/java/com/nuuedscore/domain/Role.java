@@ -13,6 +13,7 @@ import javax.persistence.ManyToMany;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 /**
@@ -25,6 +26,7 @@ import lombok.ToString;
  * 
  */
 @Data
+@NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = false)
 @ToString
@@ -36,10 +38,8 @@ public class Role extends BaseDomain {
 	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
     @ManyToMany(mappedBy = "roles")
     private Collection<Person> people;
-
     @ManyToMany
     @JoinTable(
     	name = "roles_privileges", 
@@ -47,12 +47,7 @@ public class Role extends BaseDomain {
     	inverseJoinColumns = @JoinColumn(name = "privilege_id", referencedColumnName = "id")
     )
     private Collection<Privilege> privileges;
-
     private String name;
-
-    public Role() {
-        super();
-    }
 
     public Role(final String name) {
         super();

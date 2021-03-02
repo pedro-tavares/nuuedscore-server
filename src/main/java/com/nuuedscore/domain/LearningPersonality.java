@@ -31,7 +31,6 @@ public class LearningPersonality extends BaseDomain {
 	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
     private String name;
 
     public LearningPersonality() {

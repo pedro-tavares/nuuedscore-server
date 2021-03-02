@@ -12,6 +12,7 @@ import org.springframework.stereotype.Component;
 import com.nuuedscore.domain.LearningPersonality;
 import com.nuuedscore.domain.Privilege;
 import com.nuuedscore.domain.Role;
+import com.nuuedscore.refdata.RefLearningPersonality;
 import com.nuuedscore.repository.LearningPersonalityRepository;
 import com.nuuedscore.repository.PrivilegeRepository;
 import com.nuuedscore.repository.RoleRepository;
@@ -60,14 +61,9 @@ public class DomainInitializer implements ApplicationContextAware {
 		/*
 		 * LEARNING PERSONALITY
 		 */
-		createLearningPersonalityIfNotFound("VISUAL");
-		createLearningPersonalityIfNotFound("AURAL");
-		createLearningPersonalityIfNotFound("VERBAL");
-		createLearningPersonalityIfNotFound("SOCIAL");
-		createLearningPersonalityIfNotFound("LOGICAL");
-		createLearningPersonalityIfNotFound("PHYSICAL");
-		createLearningPersonalityIfNotFound("SOLITARY");
-		createLearningPersonalityIfNotFound("ALL");
+		for (RefLearningPersonality learningPersonality: RefLearningPersonality.values()) {
+			createLearningPersonalityIfNotFound(learningPersonality.learningPersonality());
+		}
 	}
 
 	/*

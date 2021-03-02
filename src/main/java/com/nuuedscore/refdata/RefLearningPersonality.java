@@ -10,14 +10,14 @@ package com.nuuedscore.refdata;
  */
 public enum RefLearningPersonality {
 	
-	VISUAL("VISUAL"), 
-	AURAL("AURAL"), 
-	VERBAL("VERBAL"),
-	SOCIAL("SOCIAL"),
-	LOGICAL("LOGICAL"),
-	PHYSICAL("PHYSICAL"),
-	SOLITARY("SOLITARY"),
-	ALL("ALL");
+	VISUAL("Visual"), 
+	AURAL("Aural"), 
+	VERBAL("Verbal"),
+	SOCIAL("Social"),
+	LOGICAL("Logical"),
+	PHYSICAL("Physical"),
+	SOLITARY("Solitary"),
+	EGP("EGP");
 
 	private String learningPersonality;
 

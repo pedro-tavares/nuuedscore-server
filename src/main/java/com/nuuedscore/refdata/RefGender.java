@@ -12,7 +12,7 @@ public enum RefGender {
 	
 	FEMALE("Female"), 
 	MALE("Male"),
-	OTHER("Other");
+	NEUTRAL("Neutral");
 
 	private String gender;
 

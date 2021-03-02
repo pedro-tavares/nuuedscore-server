@@ -118,8 +118,8 @@ public class Person extends BaseDomain implements UserDetails {
     		username,
     		email,
     		password,
-    		RefGender.OTHER, // gender
-    		RefLearningPersonality.ALL, // learningPersonality
+    		RefGender.NEUTRAL, // gender
+    		RefLearningPersonality.UNKNOWN, // learningPersonality
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -179,10 +179,10 @@ public class Person extends BaseDomain implements UserDetails {
 	public void prePersist() {
 	    log.info("prePersist...");
 	    if (this.refGender == null) {
-	    	this.refGender = RefGender.OTHER;
+	    	this.refGender = RefGender.NEUTRAL;
 	    }
 	    if (this.refLearningPersonality == null) {
-	    	this.refLearningPersonality = RefLearningPersonality.ALL;
+	    	this.refLearningPersonality = RefLearningPersonality.UNKNOWN;
 	    }
 	    if (this.status == null) {
 	    	this.status = RefPersonStatus.ACTIVE;

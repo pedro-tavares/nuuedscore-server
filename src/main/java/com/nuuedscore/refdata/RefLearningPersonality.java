@@ -10,6 +10,7 @@ package com.nuuedscore.refdata;
  */
 public enum RefLearningPersonality {
 	
+	UNKNOWN("Unknown"),
 	VISUAL("Visual"), 
 	AURAL("Aural"), 
 	VERBAL("Verbal"),
@@ -19,13 +20,13 @@ public enum RefLearningPersonality {
 	SOLITARY("Solitary"),
 	EGP("EGP");
 
-	private String learningPersonality;
+	private String value;
 
-	RefLearningPersonality(String learningPersonality) {
-		this.learningPersonality = learningPersonality;
+	RefLearningPersonality(String value) {
+		this.value = value;
 	}
 
-	public String learningPersonality() {
-		return learningPersonality;
+	public String value() {
+		return value;
 	}
 }

@@ -40,6 +40,7 @@ public class Site extends BaseDomain {
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     protected Long id;
+	private String name;
     private String url;
     @Column(name = "status_code")
     private Integer statusCode;
@@ -48,8 +49,9 @@ public class Site extends BaseDomain {
     @Column(name = "created_on")
     private LocalDateTime createdOn;
     
-    public Site(String site) {
-    	this.url = site;
+    public Site(String name, String url) {
+    	this.name = name;
+    	this.url = url;
     	statusCode = HttpStatus.OK.value();
     	previousStatusCode = HttpStatus.OK.value();
     	createdOn = LocalDateTime.now();

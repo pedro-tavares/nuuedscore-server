@@ -20,7 +20,7 @@ import com.nuuedscore.repository.RoleRepository;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Domain Initializer Component
+ * Domain Startup Component
  *
  * @author PATavares
  * @since Feb 2021
@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Slf4j
 @Component
-public class DomainInitializer implements ApplicationContextAware {
+public class DomainStartupComponent implements ApplicationContextAware {
 
 	@Autowired
 	private RoleRepository roleRepository;
@@ -42,7 +42,7 @@ public class DomainInitializer implements ApplicationContextAware {
 	
 	@Override
 	public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {	
-		log.info("Initializing DOMAIN...", this.getClass().getSimpleName());
+		log.info("Starting DOMAIN...", this.getClass().getSimpleName());
 
 		/*
 		 * ROLE

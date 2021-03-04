@@ -1,27 +1,3 @@
-#
-#NuuEdScore - Student Resources 
-#
-#Learning Personality:
-#@TODO_LEARNING_PERSONALITY
-#Visual
-#Aural
-#Verbal
-#Social
-#Logical
-#Physical
-#Solitary
-#EGP
-#
-#Bloom's Taxonomy:
-#@TODO_BLOOM
-#Understand/Remember
-#Analyze/Apply
-#Evaluate/Create
-#
-#TOPIC,SCORE,LEARNING_PERSONALITY,BLOOM,SUBJECT,NAME,RESOURCE
-#
-#Low Scores (Left)
-#
 Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Quotes,Positive Mindset Quotes,https://www.pinterest.com/ally1203/motivational-quotes-for-students
 Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Training for Kids,https://play.google.com/store/apps/details?id=com.littletreehouseapps.mathstraninig&hl=en_US&gl=US
 Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Adventure Academy,https://www.adventureacademy.com
@@ -150,7 +126,7 @@ Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.yout
 Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jHZNWkOnlQg
 Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=9yElAq2Z9Gs
 Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7dR-6sHAfS8
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Office Skills,Digital Marketing Institute: https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
+Hard Skills,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Office Skills,Digital Marketing Institute,https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Celarity,https://www.celarity.com/job-description/content-strategist
 Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=3Tw_ALOaZWQ
 Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
@@ -306,9 +282,6 @@ Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Lifehac
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Psychology Today,https://www.psychologytoday.com/us/blog/click-here-happiness/202006/personal-development-9-skills-tips-and-examples
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Intelligent HQ,https://www.intelligenthq.com/25-self-development-skills-to-learn-for-free-online-this-year
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Personal Growth Channel,https://www.personalgrowthchannel.com/2018/03/5-outstanding-self-improvement-skills.html
-#
-#High Scores (Right)
-#
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Brainscape,https://www.brainscape.com/subjects/mathematicsetreehouseapps.mathstraninig&hl=en_US&gl=US
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,cK12,https://www.ck12.org/student
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,PhET Simulations,https://phet.colorado.edu

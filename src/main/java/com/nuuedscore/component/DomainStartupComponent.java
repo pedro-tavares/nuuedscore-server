@@ -19,11 +19,13 @@ import com.nuuedscore.domain.LearningPersonality;
 import com.nuuedscore.domain.Privilege;
 import com.nuuedscore.domain.Role;
 import com.nuuedscore.domain.StudentResource;
+import com.nuuedscore.domain.TeacherResource;
 import com.nuuedscore.refdata.RefLearningPersonality;
 import com.nuuedscore.repository.LearningPersonalityRepository;
 import com.nuuedscore.repository.PrivilegeRepository;
 import com.nuuedscore.repository.RoleRepository;
 import com.nuuedscore.repository.StudentResourceRepository;
+import com.nuuedscore.repository.TeacherResourceRepository;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 
@@ -52,6 +54,9 @@ public class DomainStartupComponent implements ApplicationContextAware {
 
 	@Autowired
 	StudentResourceRepository studentResourceRepository;
+
+	@Autowired
+	TeacherResourceRepository teacherResourceRepository;
 	
 	@Override
 	public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {	
@@ -82,6 +87,7 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		 * DOMAIN 
 		 */
 		createStudentDomain();
+		createTeacherDomain();
 	}
 
 	/**
@@ -127,7 +133,7 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		StopWatch stopWatch = new StopWatch();
 		stopWatch.start();
 		
-		List<StudentResource> resourceList = new ArrayList<StudentResource>();
+		List<StudentResource> studentResourceList = new ArrayList<StudentResource>();
 		
 		String path = System.getProperty("user.dir") + "/src/main/resources/";
 		
@@ -137,13 +143,13 @@ public class DomainStartupComponent implements ApplicationContextAware {
 			List<String[]> r = reader.readAll();
 			r.forEach(s -> {
 				log.info("{},{},{},{},{},{},{}", s[0], s[1], s[2], s[3], s[4], s[5], s[6]);
-				resourceList.add(new StudentResource(s[0], s[1], s[2], s[3], s[4], s[5], s[6]));
+				studentResourceList.add(new StudentResource(s[0], s[1], s[2], s[3], s[4], s[5], s[6]));
 			});
 			
-			log.info("Importing {} STUDENT Resources...", resourceList.size());
+			log.info("Importing {} STUDENT Resources...", studentResourceList.size());
 
 			int imported=0;
-			for (StudentResource sr: resourceList) {
+			for (StudentResource sr: studentResourceList) {
 				if (studentResourceRepository.findByResource(sr.getResource()) == null) {
 					log.info(++imported + "Saving STUDENT Resource:{}", sr.getResource());
 					studentResourceRepository.save(sr);
@@ -158,4 +164,44 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		}
 	}
 
+	/**
+	 * TEACHER DOMAIN
+	 */
+	private void createTeacherDomain() {
+		log.info("createTeacherDomain:Reading TEACHER Domain Data...");
+		
+		StopWatch stopWatch = new StopWatch();
+		stopWatch.start();
+		
+		List<TeacherResource> teacherResourceList = new ArrayList<TeacherResource>();
+		
+		String path = System.getProperty("user.dir") + "/src/main/resources/";
+		
+		try (CSVReader reader = new CSVReader(new FileReader(path + "NuuEdScore - TEACHER Resources - RAW.txt"))) {
+			log.info("Reading TEACHER Resources...");
+			
+			List<String[]> r = reader.readAll();
+			r.forEach(s -> {
+				log.info("{},{},{},{},{},{}", s[0], s[1], s[2], s[3], s[4], s[5]);
+				teacherResourceList.add(new TeacherResource(s[0], s[1], s[2], s[3], s[4], s[5]));
+			});
+			
+			log.info("Importing {} TEACHER Resources...", teacherResourceList.size());
+
+			int imported=0;
+			for (TeacherResource tr: teacherResourceList) {
+				if (teacherResourceRepository.findByResource(tr.getResource()) == null) {
+					log.info(++imported + "Saving TEACHER Resource:{}", tr.getResource());
+					teacherResourceRepository.save(tr);
+				}
+			}
+
+			stopWatch.stop();
+			log.info("DONE: Imported {} TEACHER Resources in {} (s)", imported, stopWatch.getTotalTimeSeconds());
+
+		} catch (IOException | CsvException e) {
+			log.info(ExceptionUtils.getStackTrace(e));
+		}
+	}
+	
 }

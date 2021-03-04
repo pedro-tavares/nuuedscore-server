@@ -29,4 +29,14 @@ public enum RefLearningPersonality {
 	public String value() {
 		return value;
 	}
+
+	public static RefLearningPersonality get(String value) {
+		for(RefLearningPersonality r: RefLearningPersonality.values()) {
+			if (r.value.equals(value)) {
+				return r;
+			}
+		}
+		return null;
+	}
+
 }

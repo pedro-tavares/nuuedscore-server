@@ -23,4 +23,14 @@ public enum RefBloom {
 	public String gender() {
 		return value;
 	}
+
+	public static RefBloom get(String value) {
+		for(RefBloom r: RefBloom.values()) {
+			if (r.value.equals(value)) {
+				return r;
+			}
+		}
+		return null;
+	}
+
 }

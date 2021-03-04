@@ -11,7 +11,7 @@ package com.nuuedscore.refdata;
 public enum RefScore {
 	
 	LOW("Low"), 
-	High("High");
+	HIGH("High");
 
 	private String value;
 
@@ -19,7 +19,16 @@ public enum RefScore {
 		this.value = value;
 	}
 
-	public String gender() {
+	public String value() {
 		return value;
+	}
+	
+	public static RefScore get(String value) {
+		for(RefScore r: RefScore.values()) {
+			if (r.value.equals(value)) {
+				return r;
+			}
+		}
+		return null;
 	}
 }

@@ -142,16 +142,16 @@ public class DomainStartupComponent implements ApplicationContextAware {
 			
 			log.info("Importing {} STUDENT Resources...", resourceList.size());
 
-			int i=1;
+			int imported=0;
 			for (StudentResource sr: resourceList) {
 				if (studentResourceRepository.findByResource(sr.getResource()) == null) {
-					log.info(i++ + "Saving STUDENT Resource:{}", sr.getResource());
+					log.info(++imported + "Saving STUDENT Resource:{}", sr.getResource());
 					studentResourceRepository.save(sr);
 				}
 			}
 
 			stopWatch.stop();
-			log.info("Import DONE in {} (s)", stopWatch.getTotalTimeSeconds());
+			log.info("DONE: Imported {} STUDENT Resources in {} (s)", imported, stopWatch.getTotalTimeSeconds());
 
 		} catch (IOException | CsvException e) {
 			log.info(ExceptionUtils.getStackTrace(e));

@@ -3,7 +3,6 @@ package com.nuuedscore.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.nuuedscore.domain.StudentResource;
 import com.nuuedscore.domain.TeacherResource;
 
 /**
@@ -16,6 +15,6 @@ import com.nuuedscore.domain.TeacherResource;
 public interface TeacherResourceRepository extends JpaRepository<TeacherResource, Long> {
 
     @Query("SELECT s FROM TeacherResource s WHERE s.resource = :resourceToFind")
-    StudentResource findByResource(String resourceToFind);
+    TeacherResource findByResource(String resourceToFind);
 
 }

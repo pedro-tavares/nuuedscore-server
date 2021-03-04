@@ -22,7 +22,7 @@
 #
 #Low Scores (Left)
 #
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Quotes,Positive Mindset Quotes,https://www.pinterest.com/ally1203/motivational-quotes-for-students
+Academics,Low,Visual,Evaluate/Create,Quotes,Positive Mindset Quotes,https://www.pinterest.com/ally1203/motivational-quotes-for-students
 Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Training for Kids,https://play.google.com/store/apps/details?id=com.littletreehouseapps.mathstraninig&hl=en_US&gl=US
 Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Adventure Academy,https://www.adventureacademy.com
 Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Elephant Learning,https://www.elephantlearning.com
@@ -58,7 +58,7 @@ Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Books
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
-Academics,Low,Visual/Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
+Academics,Low,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
 Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
 Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
@@ -80,12 +80,12 @@ Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,HCPPS,https
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Schoolhouse Teachers,https://schoolhouseteachers.com/world-book/wb-ebook-library
 Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,History,New Visions,https://curriculum.newvisions.org/social-studies/course/us-history
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quizlet,https://quizlet.com/subject/12th-grade-us-history
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=high+school+history
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=8th+grade+history
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=_XPZQ0LAlR4&list=PLor8B7V0gbAjxIMakmime14a9tSfMJfmN
-Academics,Low,Visual/Aural,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=499I2ycHhvY
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=high+school+history
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=8th+grade+history
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=_XPZQ0LAlR4&list=PLor8B7V0gbAjxIMakmime14a9tSfMJfmN
+Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=499I2ycHhvY
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quill,https://www.quill.org
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Everfi,https://get.everfi.com/k12-everfi-financial-literacy
 Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Personal Finance Lab,https://www.personalfinancelab.com
@@ -115,141 +115,141 @@ Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Glassd
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/454209-software-developer-job-description
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Learning Math,https://learningpath.org/articles/Sonographer
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job Hero,https://www.jobhero.com/job-description/examples/medical/transcriptionist
-Hard Skills,Low,Visual/Aural,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=OayCm263kIM
-Hard Skills,Low,Visual/Aural,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=4reRbEkecfY
-Hard Skills,Low,Visual/Aural,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
-Hard Skills,Low,Visual/Aural,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=uEfeW7sh9mM
+Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=OayCm263kIM
+Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=4reRbEkecfY
+Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
+Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=uEfeW7sh9mM
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Environmental Science,https://www.environmentalscience.org/career/sustainability-specialist
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/health-system-specialist-job-description
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Salary,https://www.salary.com/research/job-description/benchmark/safety-specialist-job-description
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learning Path,https://learningpath.org/articles/Sonographer_Career_Profile.html
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/public-relations-job-description
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=W080WDBjYyw
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cXx2l_MtDG4
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=nD9mPqTBAw0
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=wBYsBvaK-VU
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=4ciagenljG0
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=W080WDBjYyw
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cXx2l_MtDG4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=nD9mPqTBAw0
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=wBYsBvaK-VU
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=4ciagenljG0
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,Study,https://study.com/articles/Admissions_Representative_Job_Description_and_Requirements.html
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Indeed,https://www.indeed.com/hire/job-description/brand-manager
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Socialtables,https://www.socialtables.com/blog/event-planning/what-an-event-manager-does
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com/employer-resources/job-description-templates/marketing-assistant-job-description-sample
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,The Balance Careers,https://www.thebalancecareers.com/everything-you-need-to-know-about-media-planner-jobs-2316056
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=F_HBArBxKe8
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cA6uJvs_vc4
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=_u9UUl7NV3E
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7mTN-RCcGGQ
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://study.com/articles/Advertising_Manager_Job_Description_and_Requirements_for_a_Career_in_Advertising_Management.html
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=s8Y4luvlupw
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=F_HBArBxKe8
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cA6uJvs_vc4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=_u9UUl7NV3E
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7mTN-RCcGGQ
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://study.com/articles/Advertising_Manager_Job_Description_and_Requirements_for_a_Career_in_Advertising_Management.html
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=s8Y4luvlupw
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/job-description-financial-services-sales-representative-16384.html
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,SHRM,https://www.shrm.org/resourcesandtools/tools-and-samples/job-descriptions/pages/human-resource-manager.aspx
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,BLS,https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=32ER9PWhggI
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=iLhpKlekaF0
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=QDRbHf6FkZo
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jHZNWkOnlQg
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=9yElAq2Z9Gs
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7dR-6sHAfS8
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Office Skills,Digital Marketing Institute: https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=32ER9PWhggI
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=iLhpKlekaF0
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=QDRbHf6FkZo
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jHZNWkOnlQg
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=9yElAq2Z9Gs
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7dR-6sHAfS8
+Hard Skills,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Office Skills,Digital Marketing Institute,https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Celarity,https://www.celarity.com/job-description/content-strategist
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=3Tw_ALOaZWQ
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=AcLeBajc38I
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=FP5EOLF7GPI
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=esa0NeQI8oc
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=EyCYGhLSn-A
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=3Tw_ALOaZWQ
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=AcLeBajc38I
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=FP5EOLF7GPI
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=esa0NeQI8oc
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=EyCYGhLSn-A
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Office Skills,Built In,https://builtin.com/job-descriptions/art-director-job-description
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Careers in Film,https://www.careersinfilm.com/film-editor/
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Resources.Workable,https://resources.workable.com/video-editor-job-description
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=TSEASzRy8R8
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LIr9PqJdgvE
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tub,https://www.youtube.com/watch?v=PXLVLS1vJHY
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ShB-vJbHc_I
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=owDb7wHmkCU
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JNm6fJw19kg
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GAjUSQMPNGI
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=TSEASzRy8R8
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LIr9PqJdgvE
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tub,https://www.youtube.com/watch?v=PXLVLS1vJHY
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ShB-vJbHc_I
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=owDb7wHmkCU
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JNm6fJw19kg
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GAjUSQMPNGI
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,US News,https://money.usnews.com/careers/best-jobs/information-security-analyst
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Business Administration information,https://www.businessadministrationinformation.com/job-profiles
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Wikipedia,https://en.wikipedia.org/wiki/Accountant
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Truity,https://www.truity.com/career-profile/chemical-engineer
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=XrlTY70wLDA
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=VNEWcry-U10
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GMZVUtUhNwo
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jNgsSdRqsh0
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JpdBO9pJpVE
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q58q40Izit4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=XrlTY70wLDA
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=VNEWcry-U10
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GMZVUtUhNwo
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jNgsSdRqsh0
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JpdBO9pJpVE
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q58q40Izit4
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/278865-retail-buyer-job-description
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q0JbHtKCUts
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=fKqZMWIum6o
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=eZkwsgRChjE
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ygYLqWTE4ho
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ckPwqfRpp5Y
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=c4RruG8hgb0
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=bJ56oxtVL3E
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=huo-r7QYbOo
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=r1V28jooZY4
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=WPzgL-7vkbY
-Hard Skills,Low,Visual/Aural,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=lRv6o0Rbi50
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q0JbHtKCUts
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=fKqZMWIum6o
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=eZkwsgRChjE
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ygYLqWTE4ho
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ckPwqfRpp5Y
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=c4RruG8hgb0
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=bJ56oxtVL3E
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=huo-r7QYbOo
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=r1V28jooZY4
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=WPzgL-7vkbY
+Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=lRv6o0Rbi50
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Zip Recruiter,https://www.ziprecruiter.com/e/Curriculum-Developer-Job-Description-Sample
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/duties-school-superintendent-13899.html
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learn,https://learn.org/articles/Social_Services_Administration_5_Steps_to_Becoming_a_Social_Services_Administrator.html
 Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job is Job,https://www.jobisjob.com/criminal+justice/job-description
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=cDOwzX7-xh0
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=achK_A5SX2g
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=oz7K-gY3sLA
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zYthHxlerrM
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FY-Z6dWGCtU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=b1qp6iU4rZo
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=gN0Ok9erBHQ
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Nmkv-4tGlC4
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ne8QLAC0hHU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=BlFQfmVJDCA
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-ZwQtICNbRc
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=iXzmAou_UUA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=cDOwzX7-xh0
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=achK_A5SX2g
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=oz7K-gY3sLA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zYthHxlerrM
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FY-Z6dWGCtU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=b1qp6iU4rZo
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=gN0Ok9erBHQ
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Nmkv-4tGlC4
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ne8QLAC0hHU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=BlFQfmVJDCA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-ZwQtICNbRc
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=iXzmAou_UUA
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Great Sample Resume,https://www.greatsampleresume.com/job-description/examples/training-development/corporate-trainer
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FVxxDgDlBok
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/results?search_query=natural+science+manager+description
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kj6wDFSAZ8U&pbjreload=101
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NjMFVlRrzMw
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6HoZQvOX9vY
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FVxxDgDlBok
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/results?search_query=natural+science+manager+description
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kj6wDFSAZ8U&pbjreload=101
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NjMFVlRrzMw
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6HoZQvOX9vY
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Blue Arrow,https://www.bluearrow.co.uk/featured-employers/working-with-sodexo/head-chef-job-description
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,LinkedIn,https://business.linkedin.com/talent-solutions/resources/talent-engagement/job-descriptions/consultant 
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Accounting Edu,https://www.accountingedu.org/tax-consultant/
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NEbBSHp6Ao8
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=WqxiDtNXas0
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=71Oh4gQ-1jM
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NEbBSHp6Ao8
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=WqxiDtNXas0
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=71Oh4gQ-1jM
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Rims,https://www.rims.org/resources/sample-job-descriptions
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,NYFA,https://www.nyfa.edu/student-resources/what-does-a-tv-producer-do
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Zippia,https://www.zippia.com/data-collector-jobs
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Live Career,https://www.livecareer.com/job-description/examples/information-technology/support-representative
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tQ-cDwQupj8
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/B2elePj1824
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/eeuTredXDRg
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=4psAordNIMQ
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=nKP1v_ZXkbg
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=wv61brTc15o
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=3nXzHv0I55k
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=r3Q3HRs5Nl8
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kmERMlgfSbg
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tQ-cDwQupj8
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/B2elePj1824
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/eeuTredXDRg
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=4psAordNIMQ
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=nKP1v_ZXkbg
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=wv61brTc15o
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=3nXzHv0I55k
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=r3Q3HRs5Nl8
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kmERMlgfSbg
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Project Manager,https://www.projectmanager.com/training/role-project-coordinator
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Facs,https://www.facs.org/Education/Resources/Medical-Students/FAQ/Job-Description#
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Snag a Job,https://m.snagajob.com/job-descriptions/engineer/#:~:text=Engineers%20work%20in%20a%20variety,Job%20examples%20include
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=UpPtZb_vLyo
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=DiPbRluXk1o
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CzZkenCksIU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=_Gdozoqzzq0
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=twkPGDWXMhg
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=UpPtZb_vLyo
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=DiPbRluXk1o
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CzZkenCksIU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=_Gdozoqzzq0
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=twkPGDWXMhg
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Career Explorer,https://www.careerexplorer.com/careers/advertising-manager
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Logistics Manager,https://www.logisticsmanager.com/
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,ADA,https://www.ada.org/en/about-the-ada/dentists-doctors-of-oral-health 
@@ -258,19 +258,19 @@ Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Career Tr
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,JVS Social,https://www.jvs-socal.org/job/case-manager-vocational-evaluator
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Explore Health Careers,https://explorehealthcareers.org/career/sports-medicine/primary-care-sports-medicine-physician
 Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Educating Engineer,https://educatingengineers.com/careers/automotive-engineer#
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=S1hROjQcyjM
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tWKK4khRC_s
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=mIKAed1MTfM
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CCWSjaHA6lM
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Qu2zGwpqK6M
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8KMjStnYZk0
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=afzjALJj08Y
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LdgbTwsU9yw
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6I3hAyTgZe8
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=o1mRhodAtGg
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=T5s0BHFzmDU
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=I0nGb4srcrA
-Soft Skills,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=m3FELmu1Cgk
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=S1hROjQcyjM
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tWKK4khRC_s
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=mIKAed1MTfM
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CCWSjaHA6lM
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Qu2zGwpqK6M
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8KMjStnYZk0
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=afzjALJj08Y
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LdgbTwsU9yw
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6I3hAyTgZe8
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=o1mRhodAtGg
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=T5s0BHFzmDU
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=I0nGb4srcrA
+Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=m3FELmu1Cgk
 Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Practice Test Bank,http://www.practicetestbank.com/civil-service/tests
 Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Job Test Prep,https://www.jobtestprep.com/civil-service-exam-sample-questions
 Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Mometrix,https://www.mometrix.com/academy/civil-service-exam
@@ -287,11 +287,11 @@ Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Chegg,
 Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Think Academy,https://www.thethinkacademy.com
 Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Club Z,https://clubztutoring.com
 Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Expert ADHD,http://expertadhdcoaching.com
-Personal Growth,Low,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NnkzlS_QzYA
+Personal Growth,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NnkzlS_QzYA
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Librivox,https://librivox.org
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,USF,https://etc.usf.edu/lit2go
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Loyal Books,http://www.loyalbooks.com
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Open Culture,https://www.openculture.com/freeaudiobooks
+Personal Growth,Low,Aural,@TODO_BLOOM,@TODO_SUBJECT,Open Culture,https://www.openculture.com/freeaudiobooks
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Overdrive,https://help.overdrive.com/en-us/categories/getting-started.htm
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Scribl,https://scribl.com
 Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,UDEMY,https://www.udemy.com/developers/affiliate
@@ -321,7 +321,7 @@ Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Book
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
+Academics,High,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
 Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
 Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
 Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
@@ -347,11 +347,11 @@ Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Nanowrimo,https://
 Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Common Sense,https://www.commonsense.org/education/app/evernote
 Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Noodle Tools,https://www.noodletools.com
 Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Quill,https://www.quill.org
-Academics,High,Visual/Aural,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=L1J9ZPVydrc
-Academics,High,Visual/Aural,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=TwYXDVs_uOg
-Academics,High,Visual/Aural,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=4swFGRhQoMI
-Academics,High,Visual/Aural,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=pHdzv1NfZRM
-Academics,High,Visual/Aural,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=RSoRzTtwgP4
+Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=L1J9ZPVydrc
+Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=TwYXDVs_uOg
+Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=4swFGRhQoMI
+Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=pHdzv1NfZRM
+Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=RSoRzTtwgP4
 Financial Literacy,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Writing,Money Magic,https://playmoneymagic.com
 Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Rich Dad,https://store.richdad.com
 Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Um5gv3ZZY2M
@@ -377,11 +377,11 @@ College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Bes
 College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,CLT Exams,https://www.cltexam.com/practice-home
 College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Study Point,https://www.studypoint.com/ed/college-entrance-exams
 College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Peterson’s,https://www.petersons.com/blog/petersons-releases-new-practice-tests-for-act-gre-emt-and-other-popular-test-prep-courses
-College Prep Exams,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ino_JfkuC_I
-College Prep Exams,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=uQr-I8OsSjo
-College Prep Exams,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-dn3H3D2d1k
-College Prep Exams,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Cmj_teMX8fc
-College Prep Exams,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Ovv6qi9H_1A
+College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ino_JfkuC_I
+College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=uQr-I8OsSjo
+College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-dn3H3D2d1k
+College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Cmj_teMX8fc
+College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Ovv6qi9H_1A
 Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,College Readiness,https://collegereadiness.collegeboard.org/psat-nmsqt-psat-10/practice/full-length-practice-tests
 Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Kap Test,https://www.kaptest.com/study/psat/psat-free-practice-quizzes
 Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zEsdr0C2Cdc
@@ -413,11 +413,11 @@ College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BL
 College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Study.com,https://study.com/academy/lesson/what-is-an-entrepreneur-definition-characteristics-examples.html
 College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Business News Daily,https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html
 College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Forbes,https://www.forbes.com/sites/georgedeeb/2014/11/07/the-4-types-of-entrepreneurs-which-type-are-you/?sh=34fb3b0b3e9e
-College Alternatives - Entrepreneurship,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=92ZmzD70sOU
-College Alternatives - Entrepreneurship,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vifWUfoeWQI&feature=youtu.be
-College Alternatives - Entrepreneurship,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=az6NibAUf7Y
-College Alternatives - Entrepreneurship,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=N6zqatiur3A
-College Alternatives - Entrepreneurship,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=7UbxJCIUQRE
+College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=92ZmzD70sOU
+College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vifWUfoeWQI&feature=youtu.be
+College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=az6NibAUf7Y
+College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=N6zqatiur3A
+College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=7UbxJCIUQRE
 College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,PDF Drive,https://www.pdfdrive.com/before-you-quit-your-job-books.html
 College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Good Reads,https://www.goodreads.com/book/show/42775.Rich_Dad_s_Before_You_Quit_Your_Job
 Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,@TODO_NAME,https://www.defense.gov/Our-Story/Our-Forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority
@@ -425,10 +425,10 @@ Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_
 Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Today’s Military,https://www.todaysmilitary.com/ways-to-serve/service-branches
 Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,We Are the Mighty,https://www.wearethemighty.com/mighty-trending/uniformed-services-united-states-military
 Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,The Balance Careers,https://www.thebalancecareers.com/u-s-military-101-3331988
-Military Service - US Defense,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8x2Zo0ic2DM
-Military Service - US Defense,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
-Military Service - US Defense,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
-Military Service - US Defense,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=smZSq7S080c
-Military Service - US Defense,High,Visual/Aural,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=68oxmJJcV1Q
+Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8x2Zo0ic2DM
+Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
+Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
+Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=smZSq7S080c
+Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=68oxmJJcV1Q
 California Common Core Standards,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,ELA/History/Science,http://www.corestandards.org/ELA-Literacy
 California Common Core Standards,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MATH,http://www.corestandards.org/Math

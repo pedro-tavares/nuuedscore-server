@@ -58,12 +58,17 @@ public class StudentResource extends BaseDomain {
     @Column(name = "created_on")
     private LocalDateTime createdOn;
 
+    public StudentResource(String topic, String score, String learningPersonality, String bloom, String subject, String name, String resource) {
+    	this(topic, RefScore.get(score), RefLearningPersonality.get(learningPersonality), RefBloom.get(bloom), subject, name, resource);
+    }
+    
     public StudentResource(String topic, RefScore score, RefLearningPersonality learningPersonality, RefBloom bloom, String subject, String name, String resource) {
     	this.topic = topic;
     	this.score = score;
     	this.learningPersonality = learningPersonality;
     	this.bloom = bloom;
     	this.subject = subject;
+    	this.name = name;
     	this.resource = resource;
     }
     

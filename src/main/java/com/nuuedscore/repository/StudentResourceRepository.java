@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 import com.nuuedscore.domain.StudentResource;
 
 /**
- * StudentResource Repository
+ * Student Resource Repository
  * 
  * @author PATavares
  * @since Mar 2021

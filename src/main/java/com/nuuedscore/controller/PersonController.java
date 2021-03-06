@@ -50,7 +50,7 @@ public class PersonController extends BaseController {
      * @return registration outcome
      */
     @PostMapping("/register")
-    public ResponseEntity<?> signUp(@RequestBody Person person) {
+    public ResponseEntity<?> register(@RequestBody Person person) {
     	log.info("register:{}", person.toString());
     	
     	ResponseEntity<?> response = null;

@@ -10,8 +10,8 @@ package com.nuuedscore.refdata;
  */
 public enum RefPersonStatus {
 	
-	ACTIVE("Active"), 
-	INACTIVE("Inactive");
+	ACTIVE("ACTIVE"), 
+	INACTIVE("INACTIVE");
 
 	private String status;
 

@@ -20,6 +20,7 @@ import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
 import javax.persistence.Transient;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -28,6 +29,7 @@ import com.nuuedscore.refdata.RefGender;
 import com.nuuedscore.refdata.RefLearningPersonality;
 import com.nuuedscore.refdata.NuuEdScoreConstants;
 import com.nuuedscore.refdata.RefPersonStatus;
+import com.nuuedscore.repository.RoleRepository;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -53,12 +55,12 @@ import lombok.extern.slf4j.Slf4j;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = false)
-@ToString
+//@ToString
 @Entity
 public class Person extends BaseDomain implements UserDetails {
 		
 	private static final long serialVersionUID = 3411907887968056444L;
-	
+		
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     protected Long id;
@@ -66,7 +68,7 @@ public class Person extends BaseDomain implements UserDetails {
 	private String firstName; 
 	@Column(nullable=false, name = "last_name")
 	private String lastName; 
-	@Column(nullable=false)
+	//@Column(nullable=false)
 	private String username; 
 	@Column(nullable=false)
     private String email;
@@ -177,6 +179,9 @@ public class Person extends BaseDomain implements UserDetails {
 	@PrePersist
 	public void prePersist() {
 	    log.info("prePersist...");
+	    if (this.username == null) {
+	    	this.username = this.email;
+	    }
 	    if (this.refGender == null) {
 	    	this.refGender = RefGender.NEUTRAL;
 	    }
@@ -185,7 +190,7 @@ public class Person extends BaseDomain implements UserDetails {
 	    }
 	    if (this.status == null) {
 	    	this.status = RefPersonStatus.ACTIVE;
-	    }
+	    }	    
 	    this.setCreatedOn(LocalDateTime.now());
 	}
 
@@ -193,6 +198,30 @@ public class Person extends BaseDomain implements UserDetails {
 	public void logUserUpdateAttempt() {
 	    log.info("preUpdate...");
 	    this.setUpdatedOn(LocalDateTime.now());
+	}
+
+	@Override
+	public String toString() {
+		return "Person [id=" + id 
+				+ ", firstName=" + firstName 
+				+ ", lastName=" + lastName 
+				+ ", username=" + username
+				+ ", email=" + email + ", password=" + password 
+				+ ", refGender=" + refGender
+				+ ", refLearningPersonality=" + refLearningPersonality 
+				+ ", phoneNumber=" + phoneNumber
+				+ ", organization=" + organization 
+				+ ", classRoomCode=" + classRoomCode 
+				+ ", devicenToken=" + devicenToken 
+				+ ", typeDevice=" + typeDevice 
+				+ ", birthday=" + birthday 
+				+ ", school=" + school
+				+ ", createById=" + createById 
+				+ ", status=" + status 
+				+ ", createdOn=" + createdOn 
+				+ ", updatedOn= "+ updatedOn 
+				//+ ", roles=" + roles 
+				+ "]";
 	}
 }
 

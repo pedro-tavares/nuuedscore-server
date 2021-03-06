@@ -86,8 +86,8 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		/*
 		 * DOMAIN 
 		 */
-		createStudentDomain();
-		createTeacherDomain();
+//		createStudentDomain();
+//		createTeacherDomain();
 	}
 
 	/**

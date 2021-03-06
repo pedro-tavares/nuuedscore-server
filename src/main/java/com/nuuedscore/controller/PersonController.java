@@ -50,12 +50,15 @@ public class PersonController extends BaseController {
      * @return registration outcome
      */
     @PostMapping("/register")
-    public ResponseEntity<?> register(@RequestBody Person person) {
-    	log.info("register:{}", person.toString());
+    public ResponseEntity<String> register(@RequestBody Person person) {
+    	log.info("register:{}", person.getEmail());
     	
-    	ResponseEntity<?> response = null;
-        try {
-			response = new ResponseEntity<Person>(personService.register(person), HttpStatus.OK);
+    	ResponseEntity<String> response = null;
+        try {	
+        	Person registeredPerson = personService.register(person);
+        	log.info("registeredPerson:{}", registeredPerson.toString());
+        	
+        	response = new ResponseEntity<String>("Person has been Succesfully Registered", HttpStatus.OK);
 			
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			response = new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);

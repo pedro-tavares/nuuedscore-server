@@ -40,7 +40,7 @@ class NuuEdScoreApplicationServiceTests {
 	void testPersonSignUp() {
 		Person person = new Person(Math.abs(random.nextInt()) + "@mail");
 		try {
-			personService.signUp(person);
+			personService.register(person);
 			
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			log.error(ExceptionUtils.getMessage(e));

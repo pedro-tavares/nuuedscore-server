@@ -42,13 +42,8 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 	}
 
 	@Override
-	public void setup() {
-		log.info("setup");
-	}
-
-	@Override
-	public Person signUp(Person person) throws PersonEmailCannotBeNullException, PersonExistsException {
-		log.info("signUp:{}", person.getEmail());
+	public Person register(Person person) throws PersonEmailCannotBeNullException, PersonExistsException {
+		log.info("register:{}", person.getEmail());
 		
 		if (person.getEmail() == null) {
 			throw new PersonEmailCannotBeNullException("Person email cannot be null.");
@@ -56,10 +51,10 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 		if (emailExists(person.getEmail())) {
 			throw new PersonExistsException("Account with email already exists for:" + person.getEmail());
 		}
-		Person signedUpPerson = this.save(person);
-		log.info("signedUpPerson:{}", signedUpPerson);
+		Person registeredPerson = this.save(person);
+		log.info("registeredPerson:{}", registeredPerson);
 		
-		return signedUpPerson;
+		return registeredPerson;
 	}
     
 	public Person save(Person person) {

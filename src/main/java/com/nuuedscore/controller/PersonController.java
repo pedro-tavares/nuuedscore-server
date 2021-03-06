@@ -44,18 +44,18 @@ public class PersonController extends BaseController {
     }
 
     /**
-     * Person Sign Up
+     * Person Register
      * 
      * @param person
-     * @return service outcome
+     * @return registration outcome
      */
     @PostMapping("/sign_up")
     public ResponseEntity<?> signUp(@RequestBody Person person) {
-    	log.info("signUp:{}", person.toString());
+    	log.info("register:{}", person.toString());
     	
     	ResponseEntity<?> response = null;
         try {
-			response = new ResponseEntity<Person>(personService.signUp(person), HttpStatus.OK);
+			response = new ResponseEntity<Person>(personService.register(person), HttpStatus.OK);
 			
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			response = new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);

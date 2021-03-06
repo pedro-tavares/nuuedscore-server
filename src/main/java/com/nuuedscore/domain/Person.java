@@ -106,15 +106,15 @@ public class Person extends BaseDomain implements UserDetails {
     private Collection<Role> roles;
     
     public Person(String email) {
-    	this(email, email, NuuEdScoreConstants.DEFAULT_PASSWORD);
+    	this("", "", email, NuuEdScoreConstants.DEFAULT_PASSWORD);
     }
     
-    public Person(String username, String email, String password) {
+    public Person(String firstName, String lastName, String email, String password) {
     	this(
     		null, // id
-    		"", // firstName
-    		"", // lastName 
-    		username,
+    		firstName, // firstName
+    		lastName, // lastName 
+    		"", // username,
     		email,
     		password,
     		RefGender.NEUTRAL, // gender

@@ -14,7 +14,7 @@ import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
 /**
- * JWT Toekn Utility  
+ * JWT Token Utility  
  *
  * @author PATavares
  * @since Mar 2021

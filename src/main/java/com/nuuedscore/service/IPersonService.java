@@ -17,6 +17,7 @@ import com.nuuedscore.exception.PersonExistsException;
 public interface IPersonService {
 
 	Person register(Person person) throws PersonEmailCannotBeNullException, PersonExistsException;
+	Person login(Person person);
 	Person save(Person person);
 
 	Optional<Person> findById(Long id);	

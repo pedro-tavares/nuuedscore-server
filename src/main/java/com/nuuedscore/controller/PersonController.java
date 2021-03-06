@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -14,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.nuuedscore.domain.Person;
 import com.nuuedscore.exception.PersonEmailCannotBeNullException;
 import com.nuuedscore.exception.PersonExistsException;
+import com.nuuedscore.security.JWTTokenUtil;
 import com.nuuedscore.service.IPersonService;
 
 import lombok.extern.slf4j.Slf4j;
@@ -29,6 +31,9 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @RequestMapping("/person")
 public class PersonController extends BaseController {
+	
+	@Autowired
+	private JWTTokenUtil jwtTokenUtil;
 	
 	@Autowired
 	IPersonService personService;
@@ -56,10 +61,10 @@ public class PersonController extends BaseController {
     	ResponseEntity<String> response = null;
         try {	
         	Person registeredPerson = personService.register(person);
-        	log.info("registeredPerson:{}", registeredPerson.toString());
+
+        	//response = new ResponseEntity<String>("NuuEDSCORE Account Register OK", HttpStatus.OK);
+        	response = ResponseEntity.ok("NuuEDSCORE Account Register OK");
         	
-        	response = new ResponseEntity<String>("Person has been Succesfully Registered", HttpStatus.OK);
-			
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			response = new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);
 		} 
@@ -67,11 +72,26 @@ public class PersonController extends BaseController {
     }    
 
     /**
-     * Login
-     * Provided by Spring Security
+     * Person login
      * 
-     * @PostMapping("/login")
      */
+    @PostMapping("/login")
+    public ResponseEntity<String> login(@RequestBody Person person) {
+    	log.info("login:{}", person.getEmail());
+    	
+    	ResponseEntity<String> response = null;
+    	
+        if (personService.login(person) != null) {
+        	
+        	//UserDetails userDetails = personService.findByEmail(person.getEmail());
+        	final String token = jwtTokenUtil.generateToken(person);	
+        	response = ResponseEntity.ok(token);
+        	
+        } else {
+        	response = ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
+        }
+        return response;
+    }    
 
     /**
      * Save Person

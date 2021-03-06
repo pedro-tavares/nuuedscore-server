@@ -8,6 +8,8 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -65,14 +67,25 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 		
 	    person.setRoles(Arrays.asList(roleRepository.findByName("ROLE_USER")));
 
-		log.info("register WITH Roles:{}", person.toString());
-	    
 		Person registeredPerson = this.save(person);
 		log.info("registeredPerson:{}", registeredPerson);
 
 		return registeredPerson;
 	}
 
+	@Override
+	public Person login(Person person) {
+        Person registeredPerson = findByEmail(person.getEmail());
+        if (registeredPerson != null) {
+        	if (person.getPassword().equals(this.encoder().matches(person.getPassword(), registeredPerson.getPassword()))) {
+        		return registeredPerson;
+        	}
+        } 
+        
+		return null;
+	}
+	
+	@Override
 	public Person save(Person person) {
 		log.info("save:{}{}", person.isNew() ? "NEW " : "", person.toString());
 

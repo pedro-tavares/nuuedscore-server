@@ -46,12 +46,17 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 			.and()
 			.csrf().disable()
 			.authorizeRequests()
+			.antMatchers(HttpMethod.GET, "*").permitAll()
+			.antMatchers(HttpMethod.POST, "*").permitAll()
+			/*
 			.antMatchers(HttpMethod.POST, SecurityConstants.REGISTER_URL).permitAll()
             .anyRequest()
             .authenticated()
             .and()
             .addFilter(new JWTAuthenticationFilter(authenticationManager()))
             .addFilter(new JWTAuthorizationFilter(authenticationManager()))
-            .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+            .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+            */
+            ;
 	}
 }

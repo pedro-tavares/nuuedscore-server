@@ -3,8 +3,8 @@ package com.nuuedscore.component;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 
 import org.apache.commons.lang3.exception.ExceptionUtils;
@@ -45,7 +45,6 @@ public class DomainStartupComponent implements ApplicationContextAware {
 	@Autowired
 	private RoleRepository roleRepository;
 
-	@SuppressWarnings("unused")
 	@Autowired
 	private PrivilegeRepository privilegeRepository;
 
@@ -63,19 +62,23 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		log.info("Starting DOMAIN...", this.getClass().getSimpleName());
 
 		/*
-		 * ROLE
-		 */
-		// Security defaults
-		createRoleIfNotFound("ROLE_ADMIN");
-		createRoleIfNotFound("ROLE_USER");
-		// Application
-		createRoleIfNotFound("ROLE_CURATOR");
-		createRoleIfNotFound("ROLE_STUDENT");
-		
-		/*
 		 * PRIVILEGE
 		 */
+        Privilege readPrivilege = createPrivilegeIfNotFound("READ_PRIVILEGE");
+        Privilege writePrivilege = createPrivilegeIfNotFound("WRITE_PRIVILEGE");
 
+		/*
+		 * ROLE
+		 */
+        List<Privilege> adminPrivileges = Arrays.asList(readPrivilege, writePrivilege);        
+              
+		// Security defaults
+		createRoleIfNotFound("ROLE_ADMIN", adminPrivileges);
+		createRoleIfNotFound("ROLE_USER", Arrays.asList(readPrivilege));
+		// Application
+		createRoleIfNotFound("ROLE_CURATOR", adminPrivileges);
+		createRoleIfNotFound("ROLE_STUDENT", Arrays.asList(readPrivilege));
+		      
 		/*
 		 * LEARNING PERSONALITY
 		 */
@@ -93,10 +96,6 @@ public class DomainStartupComponent implements ApplicationContextAware {
 	/**
 	 * ROLE
 	 */
-	private Role createRoleIfNotFound(String roleName) {
-		return createRoleIfNotFound(roleName, Collections.emptyList()); // no privilege as all privilege for now
-	}
-	
 	private Role createRoleIfNotFound(String roleName, Collection<Privilege> privileges) {
 		Role role = roleRepository.findByName(roleName);
 		if (role == null) {
@@ -110,7 +109,14 @@ public class DomainStartupComponent implements ApplicationContextAware {
 	/**
 	 * PRIVILEGE
 	 */
-	//TODO
+	private Privilege createPrivilegeIfNotFound(String privilegeName) {
+        Privilege privilege = privilegeRepository.findByName(privilegeName);
+        if (privilege == null) {
+            privilege = new Privilege(privilegeName);
+            privilegeRepository.save(privilege);
+        }
+        return privilege;
+    }
 
 	/**
 	 * LEARNING PERSONALITY

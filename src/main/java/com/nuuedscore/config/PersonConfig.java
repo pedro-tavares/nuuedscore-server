@@ -40,7 +40,7 @@ public class PersonConfig implements ApplicationContextAware {
 			personService.register(new Person("Derrick", "Oneal", "doneal@nuueducation.com", "password"));
 			personService.register(new Person("Derrick", "Hardy", "dphardy66@gmail.com", "password"));
 			personService.register(new Person("Yalonda", "Keaton", "ykeaton.nuuedscore@gmail.com", "password"));
-			personService.register(new Person("The", "Master", "pedro.javalabs@gmail.com", "javalabs"));
+			personService.register(new Person("The", "Writer", "pedro.javalabs@gmail.com", "javalabs"));
 		
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			log.debug(ExceptionUtils.getStackTrace(e));	

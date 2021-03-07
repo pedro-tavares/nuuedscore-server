@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Optional;
 
 import com.nuuedscore.domain.Person;
+import com.nuuedscore.exception.PersonAuthenticationException;
 import com.nuuedscore.exception.PersonEmailCannotBeNullException;
 import com.nuuedscore.exception.PersonExistsException;
 
@@ -17,7 +18,7 @@ import com.nuuedscore.exception.PersonExistsException;
 public interface IPersonService {
 
 	Person register(Person person) throws PersonEmailCannotBeNullException, PersonExistsException;
-	Person login(Person person);
+	Person login(Person person) throws PersonAuthenticationException;
 	Person save(Person person);
 
 	Optional<Person> findById(Long id);	

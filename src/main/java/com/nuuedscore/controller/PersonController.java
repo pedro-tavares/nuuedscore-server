@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.nuuedscore.domain.Person;
+import com.nuuedscore.exception.PersonAuthenticationException;
 import com.nuuedscore.exception.PersonEmailCannotBeNullException;
 import com.nuuedscore.exception.PersonExistsException;
 import com.nuuedscore.security.JWTTokenUtil;
@@ -60,10 +61,10 @@ public class PersonController extends BaseController {
     	
     	ResponseEntity<String> response = null;
         try {	
-        	Person registeredPerson = personService.register(person);
+        	personService.register(person);
 
         	//response = new ResponseEntity<String>("NuuEDSCORE Account Register OK", HttpStatus.OK);
-        	response = ResponseEntity.ok("NuuEDSCORE Account Register OK");
+        	response = ResponseEntity.ok("NuuEDSCORE Account Register: OK");
         	
 		} catch (PersonEmailCannotBeNullException | PersonExistsException e) {
 			response = new ResponseEntity<String>(e.getMessage(), HttpStatus.BAD_REQUEST);
@@ -81,15 +82,15 @@ public class PersonController extends BaseController {
     	
     	ResponseEntity<String> response = null;
     	
-        if (personService.login(person) != null) {
-        	
-        	//UserDetails userDetails = personService.findByEmail(person.getEmail());
-        	final String token = jwtTokenUtil.generateToken(person);	
-        	response = ResponseEntity.ok(token);
-        	
-        } else {
-        	response = ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
-        }
+        try {
+			if (personService.login(person) != null) {
+				final String token = jwtTokenUtil.generateToken(person);	
+				response = ResponseEntity.ok("OK," + token);	
+			} 
+			
+		} catch (PersonAuthenticationException e) {
+			response = new ResponseEntity<String>(e.getMessage(), HttpStatus.UNAUTHORIZED);
+		}
         return response;
     }    
 

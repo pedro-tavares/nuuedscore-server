@@ -179,9 +179,9 @@ public class Person extends BaseDomain implements UserDetails {
 	@PrePersist
 	public void prePersist() {
 	    log.info("prePersist...");
-	    if (this.username == null) {
+	    //if (this.username == null) {
 	    	this.username = this.email;
-	    }
+	    //}
 	    if (this.refGender == null) {
 	    	this.refGender = RefGender.NEUTRAL;
 	    }

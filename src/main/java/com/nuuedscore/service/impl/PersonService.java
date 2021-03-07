@@ -8,8 +8,6 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -22,6 +20,7 @@ import org.springframework.stereotype.Service;
 import com.nuuedscore.domain.Person;
 import com.nuuedscore.domain.Privilege;
 import com.nuuedscore.domain.Role;
+import com.nuuedscore.exception.PersonAuthenticationException;
 import com.nuuedscore.exception.PersonEmailCannotBeNullException;
 import com.nuuedscore.exception.PersonExistsException;
 import com.nuuedscore.refdata.NuuEdScoreConstants;
@@ -74,15 +73,21 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 	}
 
 	@Override
-	public Person login(Person person) {
-        Person registeredPerson = findByEmail(person.getEmail());
-        if (registeredPerson != null) {
-        	if (person.getPassword().equals(this.encoder().matches(person.getPassword(), registeredPerson.getPassword()))) {
+	public Person login(Person person) throws PersonAuthenticationException {
+		log.info("login:{}", person.getEmail());
+
+		Person registeredPerson = findByEmail(person.getEmail());
+		log.info("login registeredPerson:{}", registeredPerson.toString());
+
+		if (registeredPerson != null) {
+        	if (this.encoder().matches(person.getPassword(), registeredPerson.getPassword())) {
+        		log.info("AUTHENTICATED:{}", person.getEmail());
+        		
         		return registeredPerson;
         	}
         } 
-        
-		return null;
+		log.info("AUTHENTICATE FAILED!:{}", person.getEmail());
+		throw new PersonAuthenticationException("Person Authentication Failed for:" + person.getEmail());
 	}
 	
 	@Override
@@ -118,24 +123,31 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 	 * Override Security Core
 	 */
 	@Override
-	public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
-
-		Person user = personRepository.findByEmail(email);
-		if (user == null) {
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		log.info("\n\n\nloadUserByUsername:{}\n\n\n", username);
+		
+		Person person = personRepository.findByUsername(username);
+		//Person person = personRepository.findByEmail(username);
+		if (person == null) {
 			return new org.springframework.security.core.userdetails.User(
-					" ", " ", true, true, true, true,
+					" ", 
+					" ", 
+					true, 
+					true, 
+					true, 
+					true,
 					getAuthorities(Arrays.asList(roleRepository.findByName("ROLE_USER")))
 			);
 		}
 
 		return new org.springframework.security.core.userdetails.User(
-			user.getEmail(), 
-			user.getPassword(),
-			user.isEnabled(), 
+			person.getEmail(), 
+			person.getPassword(),
+			person.isEnabled(), 
 			true, 
 			true, 
 			true, 
-			getAuthorities(user.getRoles())
+			getAuthorities(person.getRoles())
 		);
 	}
 
@@ -146,6 +158,7 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 	private List<String> getPrivileges(Collection<Role> roles) {
 		List<String> privileges = new ArrayList<>();
 		List<Privilege> collection = new ArrayList<>();
+		
 		for (Role role : roles) {
 			collection.addAll(role.getPrivileges());
 		}
@@ -157,6 +170,7 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 
 	private List<GrantedAuthority> getGrantedAuthorities(List<String> privileges) {
 		List<GrantedAuthority> authorities = new ArrayList<>();
+		
 		for (String privilege : privileges) {
 			authorities.add(new SimpleGrantedAuthority(privilege));
 		}

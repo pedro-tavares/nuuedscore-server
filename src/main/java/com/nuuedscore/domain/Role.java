@@ -38,6 +38,7 @@ public class Role extends BaseDomain {
 	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+	private String name;
     @ManyToMany(mappedBy = "roles")
     private Collection<Person> people;
     @ManyToMany
@@ -47,7 +48,6 @@ public class Role extends BaseDomain {
     	inverseJoinColumns = @JoinColumn(name = "privilege_id", referencedColumnName = "id")
     )
     private Collection<Privilege> privileges;
-    private String name;
 
     public Role(final String name) {
         super();

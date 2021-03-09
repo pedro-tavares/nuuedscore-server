@@ -13,7 +13,6 @@ import javax.persistence.PrePersist;
 
 import com.nuuedscore.refdata.RefBloom;
 import com.nuuedscore.refdata.RefLearningPersonality;
-import com.nuuedscore.refdata.RefScore;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -61,7 +61,7 @@ public class PersonService extends BaseService implements IPersonService, UserDe
 			throw new PersonEmailCannotBeNullException("Person email cannot be null.");
 		}
 		if (emailExists(person.getEmail())) {
-			throw new PersonExistsException("Account with email already exists for:" + person.getEmail());
+			throw new PersonExistsException("Account with email already exists for " + person.getEmail());
 		}
 		
 	    person.setRoles(Arrays.asList(roleRepository.findByName("ROLE_USER")));
@@ -87,7 +87,7 @@ public class PersonService extends BaseService implements IPersonService, UserDe
         	}
         } 
 		log.info("AUTHENTICATE FAILED!:{}", person.getEmail());
-		throw new PersonAuthenticationException("Person Authentication Failed for:" + person.getEmail());
+		throw new PersonAuthenticationException("Person Authentication Failed for " + person.getEmail());
 	}
 	
 	@Override

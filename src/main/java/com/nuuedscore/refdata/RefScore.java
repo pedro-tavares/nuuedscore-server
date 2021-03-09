@@ -10,8 +10,8 @@ package com.nuuedscore.refdata;
  */
 public enum RefScore {
 	
-	LOW("Low"), 
-	HIGH("High");
+	LOW("LOW"), 
+	HIGH("HIGH");
 
 	private String value;
 

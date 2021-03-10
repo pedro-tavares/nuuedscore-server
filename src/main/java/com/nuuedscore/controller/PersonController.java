@@ -86,7 +86,7 @@ public class PersonController extends BaseController {
 			if (personService.login(person) != null) {
 				final String token = jwtTokenUtil.generateToken(person);	
 				response = ResponseEntity.ok(token);	
-				new ResponseEntity<String>("ERROR:" + e.getMessage(), HttpStatus.OK);
+				//new ResponseEntity<String>(token, HttpStatus.OK);
 			} 
 			
 		} catch (PersonAuthenticationException e) {

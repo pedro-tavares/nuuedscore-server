@@ -22,6 +22,7 @@ import lombok.extern.slf4j.Slf4j;
  * 
  */
 @Slf4j
+//@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/student_resource")
 public class StudentResourceController extends BaseController {
@@ -33,7 +34,7 @@ public class StudentResourceController extends BaseController {
 	 * Get all 
 	 * 
 	 */
-    @GetMapping("/")
+    @GetMapping("/list")
     public ResponseEntity<List<StudentResource>> all() {
         return new ResponseEntity<List<StudentResource>>(studentResourceService.findAll(), HttpStatus.OK);
     }

@@ -26,6 +26,7 @@ public class NuuEdScoreApplication {
 		ApplicationContext applicationContext = SpringApplication.run(NuuEdScoreApplication.class, args);
 		
 		// Debug Loaded Beans in Context
+		log.debug("\n\n\nSPRING Loaded Beans in Context:");
 		for (String name: applicationContext.getBeanDefinitionNames()) {
 			log.debug(name);
 		}		

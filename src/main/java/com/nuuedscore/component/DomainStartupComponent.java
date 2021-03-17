@@ -89,8 +89,8 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		/*
 		 * DOMAIN 
 		 */
-		//createStudentDomain();
-		//createTeacherDomain();
+		createStudentDomain();
+		createTeacherDomain();
 	}
 
 	/**
@@ -157,7 +157,7 @@ public class DomainStartupComponent implements ApplicationContextAware {
 			int imported=0;
 			for (StudentResource sr: studentResourceList) {
 				if (studentResourceRepository.findByResource(sr.getResource()) == null) {
-					log.info(++imported + "Saving STUDENT Resource:{}", sr.getResource());
+					log.info(++imported + "->Saving STUDENT Resource:{}", sr.toString());
 					studentResourceRepository.save(sr);
 				}
 			}
@@ -197,7 +197,7 @@ public class DomainStartupComponent implements ApplicationContextAware {
 			int imported=0;
 			for (TeacherResource tr: teacherResourceList) {
 				if (teacherResourceRepository.findByResource(tr.getResource()) == null) {
-					log.info(++imported + "Saving TEACHER Resource:{}", tr.getResource());
+					log.info(++imported + "->Saving TEACHER Resource:{}", tr.toString());
 					teacherResourceRepository.save(tr);
 				}
 			}

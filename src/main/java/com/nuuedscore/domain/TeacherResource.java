@@ -44,11 +44,11 @@ public class TeacherResource extends BaseDomain {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     protected Long id;
 	private String topic;
-	@Enumerated(EnumType.STRING)
 	/*
-	private RefScore score;
 	@Enumerated(EnumType.STRING)
+	private RefScore score;
 	*/
+	@Enumerated(EnumType.STRING)
 	@Column(name = "learning_personality")
 	private RefLearningPersonality learningPersonality;
 	@Enumerated(EnumType.STRING)

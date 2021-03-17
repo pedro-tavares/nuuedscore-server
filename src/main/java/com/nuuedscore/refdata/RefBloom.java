@@ -10,6 +10,7 @@ package com.nuuedscore.refdata;
  */
 public enum RefBloom {
 	
+	TODO_BLOOM("TODO_BLOOM"),
 	UNDERSTAND_REMEMBER("Understand/Remember"), 
 	ANALYZE_APPLY("Analyze/Apply"),
 	EVALUATE_CREATE("Evaluate/Create");

@@ -14,6 +14,7 @@ import javax.persistence.PrePersist;
 import com.nuuedscore.refdata.RefBloom;
 import com.nuuedscore.refdata.RefLearningPersonality;
 import com.nuuedscore.refdata.RefScore;
+import com.nuuedscore.refdata.RefSubject;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -78,6 +79,15 @@ public class StudentResource extends BaseDomain {
 	@PrePersist
 	public void prePersist() {
 	    log.info("prePersist...");
+	    if (this.getLearningPersonality() == null) {
+	    	this.setLearningPersonality(RefLearningPersonality.TODO_LEARNING_PERSONALITY);
+	    }
+	    if (this.getBloom() == null) {
+	    	this.setBloom(RefBloom.TODO_BLOOM);
+	    }
+	    if (this.getSubject() == null) {
+	    	this.setSubject(RefSubject.TODO_SUBJECT.toString());
+	    }
 	    this.setCreatedOn(LocalDateTime.now());
 	}
     

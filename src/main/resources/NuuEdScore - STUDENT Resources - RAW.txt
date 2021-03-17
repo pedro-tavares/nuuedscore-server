@@ -1,407 +1,407 @@
-Academics,Low,Visual,Evaluate/Create,Quotes,Positive Mindset Quotes,https://www.pinterest.com/ally1203/motivational-quotes-for-students
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Training for Kids,https://play.google.com/store/apps/details?id=com.littletreehouseapps.mathstraninig&hl=en_US&gl=US
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Adventure Academy,https://www.adventureacademy.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Elephant Learning,https://www.elephantlearning.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Doodle Math,https://www.doodlemaths.com/available-apps
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Buzz Math, https://www.buzzmath.com/en-us
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Dragon Box,https://dragonbox.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,What is Algebra,https://www.youtube.com/watch?v=NybHckSEQBI
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,8th Grade Algebra,https://www.youtube.com/watch?v=jGjsVfhVlz8&t=236s
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,9th Grade Math Review,https://www.youtube.com/watch?v=_lxccBUcNaY
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,10th Grade Math Review,https://www.youtube.com/watch?v=Veb22xD0Ao0
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,11th Grade Math Review,https://www.youtube.com/watch?v=yEPVEfUVrF4
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Jensen Math,https://www.jensenmath.ca
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Virtual Nerd,https://www.virtualnerd.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Cue Think,https://www.cuethink.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Super Teacher Tools,https://www.superteachertools.us
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,GeoGebra,https://www.geogebra.org/?lang=en
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Geometry Dash,https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=en_US&gl=US
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Open Middle,https://www.openmiddle.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Study Pug,https://www.studypug.com/home8-2
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Cy Math,https://www.cymath.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Prodigy Math,https://www.prodigygame.com/main-en
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Khan Academy,https://www.khanacademy.org
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Cool Math Games,https://www.coolmathgames.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Math Learning Center,https://www.mathlearningcenter.org/apps
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Blaster,http://www.mathblaster.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Learn Zillion,https://learnzillion.com/resources/75114-math
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Hooda Math,https://www.hoodamath.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Game Time,https://www.mathgametime.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Reading Institute,https://readingprograms.org/10th-11th-grade
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library eBooks,https://sfpl.org/books-and-media/ebook-collections
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Good Reads,https://www.goodreads.com/list/show/23017.FREE_Ebooks_For_Teens
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Books,https://landing.chirpbooks.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
-Academics,Low,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Canva,https://www.canva.com/create/ebooks
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Flip Snack,https://www.flipsnack.com/ebook-maker
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Personal Learning Board,https://k12teacherstaffdevelopment.com/tlb/what-is-the-high-5-reading-strategy
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For US market,https://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For Indian market,https://affiliate.flipkart.com/api-docs/af_prod_ref.html
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For South Africa market,https://www.takealot.com/books/south-african-15554
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Chegg,https://www.chegg.com/homework-help/questions-and-answers/science
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Tutor.com,https://www.tutor.com/subjects/science
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Science,Skooli,https://www.skooli.com/science-help
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Science,Just an Answer,https://www.justanswer.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Up Achieve,https://upchieve.org/students
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Vnaya,https://www.vnaya.com/online-tutoring
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,IXL Learning,https://www.ixl.com/social-studies
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Study.com,https://study.com/academy/course/9th-grade-world-history-textbook.html
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,HCPPS,https://hcpss.instructure.com/courses/76173/pages/9th-grade-united-states-history
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Schoolhouse Teachers,https://schoolhouseteachers.com/world-book/wb-ebook-library
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,History,New Visions,https://curriculum.newvisions.org/social-studies/course/us-history
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quizlet,https://quizlet.com/subject/12th-grade-us-history
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=high+school+history
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=8th+grade+history
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=_XPZQ0LAlR4&list=PLor8B7V0gbAjxIMakmime14a9tSfMJfmN
-Academics,Low,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=499I2ycHhvY
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quill,https://www.quill.org
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Everfi,https://get.everfi.com/k12-everfi-financial-literacy
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Personal Finance Lab,https://www.personalfinancelab.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,Time for Payback,https://www.timeforpayback.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,STAX,https://buildyourstax.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,Play Spent,http://playspent.org
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Financial Football,https://www.financialfootball.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,JR Colleges,Santa Barbara Community College,https://www.sbcc.edu
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,JR Colleges,Cuesta College,http://cuesta.edu
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Las Positas College,http://laspositascollege.edu
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Orange Coast College,http://orangecoastcollege.edu
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Mt. San Antonio College,http://mtsac.edu 
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Taft College,http://taftcollege.edu
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Top 10 Certification Programs,https://www.edureka.co/blog/top-10-certifications
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Get Educated,https://www.geteducated.com/careers/highest-paying-jobs-without-a-degree
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Springboard,https://www.springboard.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Simplilearn,https://www.simplilearn.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Bootcamp,https://bootcamp.berkeley.edu/techpm/landing
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,HVAC Training,https://hvactraining101.com/hvac-technician-certification
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,ATP Flight School,https://atpflightschool.com
-Academics,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,NAEC,https://www.naec.org/certification/qei-certification.html
-Academics,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Vocational/Certification Programs,University of Phoenix,https://www.phoenix.edu/programs/continuing-education/certificate-programs.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Salary.com,https://www.salary.com/research/job-description/benchmark/digital-marketing-analyst-i-job-description
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Indeed.com,https://www.indeed.com
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Northeastern,https://www.northeastern.edu/graduate/blog/what-does-a-data-analyst-do
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Glassdoor,https://www.glassdoor.com/Job-Descriptions/Computer-Programmer.htm
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/454209-software-developer-job-description
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Learning Math,https://learningpath.org/articles/Sonographer
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job Hero,https://www.jobhero.com/job-description/examples/medical/transcriptionist
-Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=OayCm263kIM
-Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=4reRbEkecfY
-Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
-Hard Skills,Low,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=uEfeW7sh9mM
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Environmental Science,https://www.environmentalscience.org/career/sustainability-specialist
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/health-system-specialist-job-description
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Salary,https://www.salary.com/research/job-description/benchmark/safety-specialist-job-description
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learning Path,https://learningpath.org/articles/Sonographer_Career_Profile.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/public-relations-job-description
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=W080WDBjYyw
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cXx2l_MtDG4
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=nD9mPqTBAw0
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=wBYsBvaK-VU
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=4ciagenljG0
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,Study,https://study.com/articles/Admissions_Representative_Job_Description_and_Requirements.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Indeed,https://www.indeed.com/hire/job-description/brand-manager
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Socialtables,https://www.socialtables.com/blog/event-planning/what-an-event-manager-does
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com/employer-resources/job-description-templates/marketing-assistant-job-description-sample
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,The Balance Careers,https://www.thebalancecareers.com/everything-you-need-to-know-about-media-planner-jobs-2316056
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=F_HBArBxKe8
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cA6uJvs_vc4
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=_u9UUl7NV3E
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7mTN-RCcGGQ
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://study.com/articles/Advertising_Manager_Job_Description_and_Requirements_for_a_Career_in_Advertising_Management.html
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=s8Y4luvlupw
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/job-description-financial-services-sales-representative-16384.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,SHRM,https://www.shrm.org/resourcesandtools/tools-and-samples/job-descriptions/pages/human-resource-manager.aspx
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,BLS,https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=32ER9PWhggI
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=iLhpKlekaF0
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=QDRbHf6FkZo
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jHZNWkOnlQg
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=9yElAq2Z9Gs
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7dR-6sHAfS8
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Office Skills,Digital Marketing Institute,https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Celarity,https://www.celarity.com/job-description/content-strategist
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=3Tw_ALOaZWQ
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=AcLeBajc38I
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=FP5EOLF7GPI
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=esa0NeQI8oc
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=EyCYGhLSn-A
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Office Skills,Built In,https://builtin.com/job-descriptions/art-director-job-description
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Careers in Film,https://www.careersinfilm.com/film-editor/
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Resources.Workable,https://resources.workable.com/video-editor-job-description
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=TSEASzRy8R8
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LIr9PqJdgvE
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tub,https://www.youtube.com/watch?v=PXLVLS1vJHY
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ShB-vJbHc_I
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=owDb7wHmkCU
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JNm6fJw19kg
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GAjUSQMPNGI
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,US News,https://money.usnews.com/careers/best-jobs/information-security-analyst
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Business Administration information,https://www.businessadministrationinformation.com/job-profiles
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Wikipedia,https://en.wikipedia.org/wiki/Accountant
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Truity,https://www.truity.com/career-profile/chemical-engineer
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=XrlTY70wLDA
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=VNEWcry-U10
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GMZVUtUhNwo
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jNgsSdRqsh0
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JpdBO9pJpVE
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q58q40Izit4
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/278865-retail-buyer-job-description
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q0JbHtKCUts
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=fKqZMWIum6o
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=eZkwsgRChjE
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ygYLqWTE4ho
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ckPwqfRpp5Y
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=c4RruG8hgb0
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=bJ56oxtVL3E
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=huo-r7QYbOo
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=r1V28jooZY4
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=WPzgL-7vkbY
-Hard Skills,Low,Visual,@TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=lRv6o0Rbi50
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Zip Recruiter,https://www.ziprecruiter.com/e/Curriculum-Developer-Job-Description-Sample
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/duties-school-superintendent-13899.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learn,https://learn.org/articles/Social_Services_Administration_5_Steps_to_Becoming_a_Social_Services_Administrator.html
-Hard Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job is Job,https://www.jobisjob.com/criminal+justice/job-description
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=cDOwzX7-xh0
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=achK_A5SX2g
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=oz7K-gY3sLA
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zYthHxlerrM
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FY-Z6dWGCtU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=b1qp6iU4rZo
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=gN0Ok9erBHQ
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Nmkv-4tGlC4
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ne8QLAC0hHU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=BlFQfmVJDCA
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-ZwQtICNbRc
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=iXzmAou_UUA
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Great Sample Resume,https://www.greatsampleresume.com/job-description/examples/training-development/corporate-trainer
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FVxxDgDlBok
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/results?search_query=natural+science+manager+description
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kj6wDFSAZ8U&pbjreload=101
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NjMFVlRrzMw
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6HoZQvOX9vY
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Blue Arrow,https://www.bluearrow.co.uk/featured-employers/working-with-sodexo/head-chef-job-description
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,LinkedIn,https://business.linkedin.com/talent-solutions/resources/talent-engagement/job-descriptions/consultant 
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Accounting Edu,https://www.accountingedu.org/tax-consultant/
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NEbBSHp6Ao8
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=WqxiDtNXas0
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=71Oh4gQ-1jM
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Rims,https://www.rims.org/resources/sample-job-descriptions
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,NYFA,https://www.nyfa.edu/student-resources/what-does-a-tv-producer-do
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Zippia,https://www.zippia.com/data-collector-jobs
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Live Career,https://www.livecareer.com/job-description/examples/information-technology/support-representative
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tQ-cDwQupj8
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/B2elePj1824
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://youtu.be/eeuTredXDRg
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=4psAordNIMQ
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=nKP1v_ZXkbg
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=wv61brTc15o
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=3nXzHv0I55k
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=r3Q3HRs5Nl8
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kmERMlgfSbg
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Project Manager,https://www.projectmanager.com/training/role-project-coordinator
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Facs,https://www.facs.org/Education/Resources/Medical-Students/FAQ/Job-Description#
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Snag a Job,https://m.snagajob.com/job-descriptions/engineer/#:~:text=Engineers%20work%20in%20a%20variety,Job%20examples%20include
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=UpPtZb_vLyo
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=DiPbRluXk1o
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CzZkenCksIU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=_Gdozoqzzq0
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=twkPGDWXMhg
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Career Explorer,https://www.careerexplorer.com/careers/advertising-manager
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Logistics Manager,https://www.logisticsmanager.com/
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,ADA,https://www.ada.org/en/about-the-ada/dentists-doctors-of-oral-health 
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,APTA,https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pt
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Career Trend,https://careertrend.com/facts-6776207-ombudsman-job-description.html
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,JVS Social,https://www.jvs-socal.org/job/case-manager-vocational-evaluator
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Explore Health Careers,https://explorehealthcareers.org/career/sports-medicine/primary-care-sports-medicine-physician
-Soft Skills,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Educating Engineer,https://educatingengineers.com/careers/automotive-engineer#
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=S1hROjQcyjM
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tWKK4khRC_s
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=mIKAed1MTfM
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CCWSjaHA6lM
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Qu2zGwpqK6M
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8KMjStnYZk0
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=afzjALJj08Y
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LdgbTwsU9yw
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6I3hAyTgZe8
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=o1mRhodAtGg
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=T5s0BHFzmDU
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=I0nGb4srcrA
-Soft Skills,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=m3FELmu1Cgk
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Practice Test Bank,http://www.practicetestbank.com/civil-service/tests
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Job Test Prep,https://www.jobtestprep.com/civil-service-exam-sample-questions
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Mometrix,https://www.mometrix.com/academy/civil-service-exam
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,iPrep,https://www.iprep.online/courses/civil-service-practice-test-prep-study-guide
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Civil Service Prep,https://www.civilserviceprep.com/usa/sample.aspx
-Practice Civil Service Exam,Low,@TODO_LEARNING_PERSONALITY,Analyze/Apply,@TODO_SUBJECT,Civil Service Exams,https://www.test-guide.com/civil-service-exam.html
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Sylvan,https://find.sylvanlearning.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Grade Potential,https://www.gradepotentialtutoring.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Arbor Bridge,https://www.arborbridge.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,eTutor World,https://www.etutorworld.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Tutor Me,https://tutorme.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Cignition,https://fs.cignition.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Chegg,https://www.chegg.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Think Academy,https://www.thethinkacademy.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Club Z,https://clubztutoring.com
-Tutoring Options,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Expert ADHD,http://expertadhdcoaching.com
-Personal Growth,Low,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NnkzlS_QzYA
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Librivox,https://librivox.org
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,USF,https://etc.usf.edu/lit2go
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Loyal Books,http://www.loyalbooks.com
-Personal Growth,Low,Aural,@TODO_BLOOM,@TODO_SUBJECT,Open Culture,https://www.openculture.com/freeaudiobooks
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Overdrive,https://help.overdrive.com/en-us/categories/getting-started.htm
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Scribl,https://scribl.com
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,UDEMY,https://www.udemy.com/developers/affiliate
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Developing Coursera,https://building.coursera.org/developer-program
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Open Learning World,http://www.openlearningworld.com/section_personality_development.html
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Class Central,https://www.classcentral.com/subject/personal-development
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Skills Share,https://www.skillshare.com/browse/time-management?via=browse-related-skills
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Believe and Create,https://believeandcreate.com/10-free-personal-growth-courses-that-can-change-your-life
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Skills You Need,https://www.skillsyouneed.com/ps/personal-development.html
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,EDUCBA,https://www.educba.com/25-self-development-skills-to-learn
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Lifehack,https://www.lifehack.org/290555/8-self-improvement-skills-learn-that-have-lifelong-benefits
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Psychology Today,https://www.psychologytoday.com/us/blog/click-here-happiness/202006/personal-development-9-skills-tips-and-examples
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Intelligent HQ,https://www.intelligenthq.com/25-self-development-skills-to-learn-for-free-online-this-year
-Personal Growth,Low,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Personal Growth Channel,https://www.personalgrowthchannel.com/2018/03/5-outstanding-self-improvement-skills.html
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Brainscape,https://www.brainscape.com/subjects/mathematicsetreehouseapps.mathstraninig&hl=en_US&gl=US
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,cK12,https://www.ck12.org/student
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,PhET Simulations,https://phet.colorado.edu
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Singapore Math,https://www.singaporemath.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Art of problem Solving,https://artofproblemsolving.com/school/course/prealgebra1#course-schedule
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Reading Institute,https://readingprograms.org/10th-11th-grade
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library eBooks,https://sfpl.org/books-and-media/ebook-collections
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Good Reads,https://www.goodreads.com/list/show/23017.FREE_Ebooks_For_Teens
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Books,https://landing.chirpbooks.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
-Academics,High,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
-Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
-Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Canva,https://www.canva.com/create/ebooks
-Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Flip Snack,https://www.flipsnack.com/ebook-maker
-Academics,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,Personal Learning Board,https://k12teacherstaffdevelopment.com/tlb/what-is-the-high-5-reading-strategy/
-Academics,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Frog Dissection,https://apps.apple.com/us/app/frog-dissection/id377626675
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Science,Slader,https://www.slader.com
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Science,Study Daddy,https://studydaddy.com
-Academics,High,Visual,@TODO_BLOOM,Science,Academic Earth (videos),http://www.academicearth.org
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Sites.Google,https://sites.google.com/a/apps.district833.org/mr-wacker-s-google-page
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,History Skills,https://www.historyskills.com
-Academics,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,History,Sargenotes,http://www.sargenotes.com/historical-reasoning-skills.html
-Academics,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,History,Mr. C. Robertson,http://www.mrcrobertson.com/thinking-skills.html
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,American Historical Association,https://www.historians.org/teaching-and-learning
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Albert.io,https://www.albert.io/blog/5-most-important-historical-thinking-skills-for-the-ap-world-history-test
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,U of Oxford,https://www.history.ox.ac.uk/develop-your-skills-historian
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Locos APush,https://loscosapush.weebly.com/historical-thinking-skills.html
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Core Docs,https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/107452/AP_History_Reasoning_Skills.pdf
-Academics,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,History,Pulitzer Prize,https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf
-Academics,High,@TODO_LEARNING_PERSONALITY,Evaluate/Create,Writing,826 Digital,https://826digital.com
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Nanowrimo,https://ywp.nanowrimo.org
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Common Sense,https://www.commonsense.org/education/app/evernote
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Noodle Tools,https://www.noodletools.com
-Academics,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,Writing,Quill,https://www.quill.org
-Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=L1J9ZPVydrc
-Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=TwYXDVs_uOg
-Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=4swFGRhQoMI
-Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=pHdzv1NfZRM
-Academics,High,Visual,@TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=RSoRzTtwgP4
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,Analyze/Apply,Writing,Money Magic,https://playmoneymagic.com
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Rich Dad,https://store.richdad.com
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Um5gv3ZZY2M
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8hsROCUeBaU
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Opp Loans,https://www.opploans.com/oppu/articles/high-school-financial-literacy
-Financial Literacy,High,@TODO_LEARNING_PERSONALITY,Understand/Remember,@TODO_SUBJECT,Time 4 Learning,https://www.time4learning.com
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Georgia Tech,https://www.gatech.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,U of Michigan/Ann Arbor,https://umich.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Virginia Tech,https://vt.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Texas A&M,https://www.tamu.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,UCLA,https://www.ucla.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Purdue,https://onlinedegrees.purdue.edu
-Top Colleges/Universities,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,U of Kentucky,https://math.as.uky.edu/where-can-math-take-me
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Howard University,https://home.howard.edu
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Clark Atlanta University,https://www.cau.edu
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Tuskegee University,https://www.tuskegee.edu
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Xavier University,https://www.xavier.edu
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Hampton University,http://www.hamptonu.edu
-HBCUs,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Florida A&M,https://www.famu.edu
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,My Future,https://myfuture.com/college/taking-college-entrance-exams
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Ivy Wise,https://www.ivywise.com/ivywise-knowledgebase/resources/article/sat-vs-act-which-college-entrance-exam-should-you-take
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Best Colleges,https://www.bestcolleges.com/resources/college-entrance-exams
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,CLT Exams,https://www.cltexam.com/practice-home
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Study Point,https://www.studypoint.com/ed/college-entrance-exams
-College Prep Exams,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Peterson’s,https://www.petersons.com/blog/petersons-releases-new-practice-tests-for-act-gre-emt-and-other-popular-test-prep-courses
-College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ino_JfkuC_I
-College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=uQr-I8OsSjo
-College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-dn3H3D2d1k
-College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Cmj_teMX8fc
-College Prep Exams,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Ovv6qi9H_1A
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,College Readiness,https://collegereadiness.collegeboard.org/psat-nmsqt-psat-10/practice/full-length-practice-tests
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Kap Test,https://www.kaptest.com/study/psat/psat-free-practice-quizzes
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zEsdr0C2Cdc
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Varsity Tutors,https://www.varsitytutors.com/psat-practice-tests
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Test Guide,https://www.test-guide.com/free-psat-practice-tests.html
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,UWorld,https://collegeprep.uworld.com
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Prepscholar,https://blog.prepscholar.com/complete-official-act-practice-tests-free-links
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,ACT,https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&chapter=0
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=IncD5oKQxC4
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,4 Tests,https://www.4tests.com/sat
-Practice College Exams - PSAT/ACT/SAT,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=PIGkcF-H1Ho
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Open Ed API,http://developers.opened.com
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,SBAC,http://SBAC
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Test Gorilla,https://www.testgorilla.com
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,IXL Diagnostic,https://www.ixl.com/standards/california/math/high-school
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MAP Growth,https://teach.mapnwea.org/impl/maphelp/Content/Testing/PracticeTest.htm
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,STAR Testing,http://starsamplequestions.org/starRTQ/search.jsp
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Lumos Learning,https://www.lumoslearning.com/llwp/resources/free-standardized-test-practice.html
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,CERTICA,https://certicasolutions.com/solutions/data-analytics-education-dashboards
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Stanford,https://online.stanford.edu/courses
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Harvard,https://www.extension.harvard.edu/course-catalog/courses
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Open Yale,https://oyc.yale.edu
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Berkeley,https://www.class-central.com/university/berkeley
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MIT OCW,https://ocw.mit.edu/index.htm
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Carnegie,http://oli.cmu.edu/learn-with-oli/see-all-oli-courses
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Code Academy,https://www.codecademy.com
-Practice College Exams - K-12 Academic Assessments,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Oxford: Podcasts,http://podcasts.ox.ac.uk/series 
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Oberlo,https://www.oberlo.com/blog/what-is-entrepreneurship
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Study.com,https://study.com/academy/lesson/what-is-an-entrepreneur-definition-characteristics-examples.html
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Business News Daily,https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Forbes,https://www.forbes.com/sites/georgedeeb/2014/11/07/the-4-types-of-entrepreneurs-which-type-are-you/?sh=34fb3b0b3e9e
-College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=92ZmzD70sOU
-College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vifWUfoeWQI&feature=youtu.be
-College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=az6NibAUf7Y
-College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=N6zqatiur3A
-College Alternatives - Entrepreneurship,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=7UbxJCIUQRE
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,PDF Drive,https://www.pdfdrive.com/before-you-quit-your-job-books.html
-College Alternatives - Entrepreneurship,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Good Reads,https://www.goodreads.com/book/show/42775.Rich_Dad_s_Before_You_Quit_Your_Job
-Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,@TODO_NAME,https://www.defense.gov/Our-Story/Our-Forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority
-Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Military,https://www.military.com/join-armed-forces/us-military-branches-overview.html
-Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,Today’s Military,https://www.todaysmilitary.com/ways-to-serve/service-branches
-Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,We Are the Mighty,https://www.wearethemighty.com/mighty-trending/uniformed-services-united-states-military
-Military Service - US Defense,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,The Balance Careers,https://www.thebalancecareers.com/u-s-military-101-3331988
-Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8x2Zo0ic2DM
-Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
-Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
-Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=smZSq7S080c
-Military Service - US Defense,High,Visual,@TODO_BLOOM,@TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=68oxmJJcV1Q
-California Common Core Standards,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,ELA/History/Science,http://www.corestandards.org/ELA-Literacy
-California Common Core Standards,High,@TODO_LEARNING_PERSONALITY,@TODO_BLOOM,@TODO_SUBJECT,MATH,http://www.corestandards.org/Math
+Academics,LOW,Visual,Evaluate/Create,Quotes,Positive Mindset Quotes,https://www.pinterest.com/ally1203/motivational-quotes-for-students
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Training for Kids,https://play.google.com/store/apps/details?id=com.littletreehouseapps.mathstraninig&hl=en_US&gl=US
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Adventure Academy,https://www.adventureacademy.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Elephant Learning,https://www.elephantlearning.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Doodle Math,https://www.doodlemaths.com/available-apps
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Buzz Math, https://www.buzzmath.com/en-us
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Dragon Box,https://dragonbox.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,What is Algebra,https://www.youtube.com/watch?v=NybHckSEQBI
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,8th Grade Algebra,https://www.youtube.com/watch?v=jGjsVfhVlz8&t=236s
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,9th Grade Math Review,https://www.youtube.com/watch?v=_lxccBUcNaY
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,10th Grade Math Review,https://www.youtube.com/watch?v=Veb22xD0Ao0
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,11th Grade Math Review,https://www.youtube.com/watch?v=yEPVEfUVrF4
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Jensen Math,https://www.jensenmath.ca
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Virtual Nerd,https://www.virtualnerd.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Cue Think,https://www.cuethink.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Super Teacher Tools,https://www.superteachertools.us
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,GeoGebra,https://www.geogebra.org/?lang=en
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Geometry Dash,https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=en_US&gl=US
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Open Middle,https://www.openmiddle.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Study Pug,https://www.studypug.com/home8-2
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Cy Math,https://www.cymath.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Prodigy Math,https://www.prodigygame.com/main-en
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Khan Academy,https://www.khanacademy.org
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Cool Math Games,https://www.coolmathgames.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Math Learning Center,https://www.mathlearningcenter.org/apps
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Blaster,http://www.mathblaster.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Learn Zillion,https://learnzillion.com/resources/75114-math
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Hooda Math,https://www.hoodamath.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Math,Math Game Time,https://www.mathgametime.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Reading Institute,https://readingprograms.org/10th-11th-grade
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library eBooks,https://sfpl.org/books-and-media/ebook-collections
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Good Reads,https://www.goodreads.com/list/show/23017.FREE_Ebooks_For_Teens
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Books,https://landing.chirpbooks.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
+Academics,LOW,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Canva,https://www.canva.com/create/ebooks
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Flip Snack,https://www.flipsnack.com/ebook-maker
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Personal Learning Board,https://k12teacherstaffdevelopment.com/tlb/what-is-the-high-5-reading-strategy
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For US market,https://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For Indian market,https://affiliate.flipkart.com/api-docs/af_prod_ref.html
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,For South Africa market,https://www.takealot.com/books/south-african-15554
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Chegg,https://www.chegg.com/homework-help/questions-and-answers/science
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Tutor.com,https://www.tutor.com/subjects/science
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Science,Skooli,https://www.skooli.com/science-help
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Science,Just an Answer,https://www.justanswer.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Up Achieve,https://upchieve.org/students
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Vnaya,https://www.vnaya.com/online-tutoring
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,IXL Learning,https://www.ixl.com/social-studies
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Study.com,https://study.com/academy/course/9th-grade-world-history-textbook.html
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,HCPPS,https://hcpss.instructure.com/courses/76173/pages/9th-grade-united-states-history
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Schoolhouse Teachers,https://schoolhouseteachers.com/world-book/wb-ebook-library
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,History,New Visions,https://curriculum.newvisions.org/social-studies/course/us-history
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quizlet,https://quizlet.com/subject/12th-grade-us-history
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=high+school+history
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/results?search_query=8th+grade+history
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=bO7FQsCcbD8&list=PL_BFTbVfiafvk0zkbqyULM9mmy1Jyw0rd
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=_XPZQ0LAlR4&list=PLor8B7V0gbAjxIMakmime14a9tSfMJfmN
+Academics,LOW,Visual,Understand/Remember,History,You Tube,https://www.youtube.com/watch?v=499I2ycHhvY
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Quill,https://www.quill.org
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Everfi,https://get.everfi.com/k12-everfi-financial-literacy
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Personal Finance Lab,https://www.personalfinancelab.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,Time for Payback,https://www.timeforpayback.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,STAX,https://buildyourstax.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Financial Literacy,Play Spent,http://playspent.org
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Financial Football,https://www.financialfootball.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,JR Colleges,Santa Barbara Community College,https://www.sbcc.edu
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,JR Colleges,Cuesta College,http://cuesta.edu
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Las Positas College,http://laspositascollege.edu
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Orange Coast College,http://orangecoastcollege.edu
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Mt. San Antonio College,http://mtsac.edu 
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Financial Literacy,Taft College,http://taftcollege.edu
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Top 10 Certification Programs,https://www.edureka.co/blog/top-10-certifications
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Get Educated,https://www.geteducated.com/careers/highest-paying-jobs-without-a-degree
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Springboard,https://www.springboard.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Simplilearn,https://www.simplilearn.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,Bootcamp,https://bootcamp.berkeley.edu/techpm/landing
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,HVAC Training,https://hvactraining101.com/hvac-technician-certification
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,ATP Flight School,https://atpflightschool.com
+Academics,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Vocational/Certification Programs,NAEC,https://www.naec.org/certification/qei-certification.html
+Academics,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Vocational/Certification Programs,University of Phoenix,https://www.phoenix.edu/programs/continuing-education/certificate-programs.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Salary.com,https://www.salary.com/research/job-description/benchmark/digital-marketing-analyst-i-job-description
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Indeed.com,https://www.indeed.com
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Northeastern,https://www.northeastern.edu/graduate/blog/what-does-a-data-analyst-do
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Glassdoor,https://www.glassdoor.com/Job-Descriptions/Computer-Programmer.htm
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Technical Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/454209-software-developer-job-description
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,Learning Math,https://learningpath.org/articles/Sonographer
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job Hero,https://www.jobhero.com/job-description/examples/medical/transcriptionist
+Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=OayCm263kIM
+Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=4reRbEkecfY
+Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
+Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,You Tube,https://www.youtube.com/watch?v=uEfeW7sh9mM
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Environmental Science,https://www.environmentalscience.org/career/sustainability-specialist
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/health-system-specialist-job-description
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Salary,https://www.salary.com/research/job-description/benchmark/safety-specialist-job-description
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learning Path,https://learningpath.org/articles/Sonographer_Career_Profile.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Better Team,https://www.betterteam.com/public-relations-job-description
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=W080WDBjYyw
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cXx2l_MtDG4
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=nD9mPqTBAw0
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=wBYsBvaK-VU
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=4ciagenljG0
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,Study,https://study.com/articles/Admissions_Representative_Job_Description_and_Requirements.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Indeed,https://www.indeed.com/hire/job-description/brand-manager
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Socialtables,https://www.socialtables.com/blog/event-planning/what-an-event-manager-does
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,https://hiring.monster.com/employer-resources/job-description-templates/marketing-assistant-job-description-sample
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Office Skills,The Balance Careers,https://www.thebalancecareers.com/everything-you-need-to-know-about-media-planner-jobs-2316056
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=F_HBArBxKe8
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=cA6uJvs_vc4
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=_u9UUl7NV3E
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7mTN-RCcGGQ
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://study.com/articles/Advertising_Manager_Job_Description_and_Requirements_for_a_Career_in_Advertising_Management.html
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=s8Y4luvlupw
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/job-description-financial-services-sales-representative-16384.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,SHRM,https://www.shrm.org/resourcesandtools/tools-and-samples/job-descriptions/pages/human-resource-manager.aspx
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,BLS,https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=32ER9PWhggI
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=iLhpKlekaF0
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=QDRbHf6FkZo
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jHZNWkOnlQg
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=9yElAq2Z9Gs
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=7dR-6sHAfS8
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Office Skills,Digital Marketing Institute,https://digitalmarketinginstitute.com/blog/what-does-a-content-marketer-do
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Celarity,https://www.celarity.com/job-description/content-strategist
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=3Tw_ALOaZWQ
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=AcLeBajc38I
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=FP5EOLF7GPI
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=esa0NeQI8oc
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=EyCYGhLSn-A
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Evaluate/Create,Office Skills,Built In,https://builtin.com/job-descriptions/art-director-job-description
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Careers in Film,https://www.careersinfilm.com/film-editor/
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Resources.Workable,https://resources.workable.com/video-editor-job-description
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=TSEASzRy8R8
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=MSiZHcmflX4
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LIr9PqJdgvE
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tub,https://www.youtube.com/watch?v=PXLVLS1vJHY
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ShB-vJbHc_I
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=owDb7wHmkCU
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JNm6fJw19kg
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GAjUSQMPNGI
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,US News,https://money.usnews.com/careers/best-jobs/information-security-analyst
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Business Administration information,https://www.businessadministrationinformation.com/job-profiles
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Wikipedia,https://en.wikipedia.org/wiki/Accountant
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Truity,https://www.truity.com/career-profile/chemical-engineer
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=XrlTY70wLDA
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=VNEWcry-U10
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=GMZVUtUhNwo
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=jNgsSdRqsh0
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=JpdBO9pJpVE
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q58q40Izit4
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Target Jobs,https://targetjobs.co.uk/careers-advice/job-descriptions/278865-retail-buyer-job-description
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=q0JbHtKCUts
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=fKqZMWIum6o
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=eZkwsgRChjE
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ygYLqWTE4ho
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=ckPwqfRpp5Y
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=c4RruG8hgb0
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=bJ56oxtVL3E
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=huo-r7QYbOo
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=r1V28jooZY4
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=WPzgL-7vkbY
+Hard Skills,LOW,Visual,TODO_BLOOM,Office Skills,You Tube,https://www.youtube.com/watch?v=lRv6o0Rbi50
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Zip Recruiter,https://www.ziprecruiter.com/e/Curriculum-Developer-Job-Description-Sample
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Work.Chron,https://work.chron.com/duties-school-superintendent-13899.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Learn,https://learn.org/articles/Social_Services_Administration_5_Steps_to_Becoming_a_Social_Services_Administrator.html
+Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job is Job,https://www.jobisjob.com/criminal+justice/job-description
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=cDOwzX7-xh0
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=achK_A5SX2g
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=oz7K-gY3sLA
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zYthHxlerrM
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FY-Z6dWGCtU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=b1qp6iU4rZo
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=gN0Ok9erBHQ
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Nmkv-4tGlC4
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ne8QLAC0hHU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=BlFQfmVJDCA
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-ZwQtICNbRc
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=iXzmAou_UUA
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Great Sample Resume,https://www.greatsampleresume.com/job-description/examples/training-development/corporate-trainer
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=FVxxDgDlBok
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vl7pcmIYm50
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/results?search_query=natural+science+manager+description
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kj6wDFSAZ8U&pbjreload=101
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NjMFVlRrzMw
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6HoZQvOX9vY
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Blue Arrow,https://www.bluearrow.co.uk/featured-employers/working-with-sodexo/head-chef-job-description
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,LinkedIn,https://business.linkedin.com/talent-solutions/resources/talent-engagement/job-descriptions/consultant 
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Accounting Edu,https://www.accountingedu.org/tax-consultant/
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NEbBSHp6Ao8
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=WqxiDtNXas0
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=71Oh4gQ-1jM
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Rims,https://www.rims.org/resources/sample-job-descriptions
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,NYFA,https://www.nyfa.edu/student-resources/what-does-a-tv-producer-do
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Zippia,https://www.zippia.com/data-collector-jobs
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Live Career,https://www.livecareer.com/job-description/examples/information-technology/support-representative
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tQ-cDwQupj8
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://youtu.be/B2elePj1824
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://youtu.be/eeuTredXDRg
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=MchihnInAMU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=puIO4hchPmo
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=dJxN7og0TnA
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=4psAordNIMQ
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=nKP1v_ZXkbg
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=wv61brTc15o
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=3nXzHv0I55k
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=r3Q3HRs5Nl8
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=kmERMlgfSbg
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Project Manager,https://www.projectmanager.com/training/role-project-coordinator
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Facs,https://www.facs.org/Education/Resources/Medical-Students/FAQ/Job-Description#
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Snag a Job,https://m.snagajob.com/job-descriptions/engineer/#:~:text=Engineers%20work%20in%20a%20variety,Job%20examples%20include
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=UpPtZb_vLyo
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=DiPbRluXk1o
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LNZUIue7xTw
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CzZkenCksIU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=_Gdozoqzzq0
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=twkPGDWXMhg
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Career Explorer,https://www.careerexplorer.com/careers/advertising-manager
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Logistics Manager,https://www.logisticsmanager.com/
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,ADA,https://www.ada.org/en/about-the-ada/dentists-doctors-of-oral-health 
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,APTA,https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pt
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Career Trend,https://careertrend.com/facts-6776207-ombudsman-job-description.html
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,JVS Social,https://www.jvs-socal.org/job/case-manager-vocational-evaluator
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Explore Health Careers,https://explorehealthcareers.org/career/sports-medicine/primary-care-sports-medicine-physician
+Soft Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Educating Engineer,https://educatingengineers.com/careers/automotive-engineer#
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=S1hROjQcyjM
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=tWKK4khRC_s
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=mIKAed1MTfM
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=CCWSjaHA6lM
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Qu2zGwpqK6M
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8KMjStnYZk0
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=afzjALJj08Y
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=LdgbTwsU9yw
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=6I3hAyTgZe8
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=o1mRhodAtGg
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=T5s0BHFzmDU
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=I0nGb4srcrA
+Soft Skills,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=m3FELmu1Cgk
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Practice Test Bank,http://www.practicetestbank.com/civil-service/tests
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Job Test Prep,https://www.jobtestprep.com/civil-service-exam-sample-questions
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Mometrix,https://www.mometrix.com/academy/civil-service-exam
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,iPrep,https://www.iprep.online/courses/civil-service-practice-test-prep-study-guide
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Civil Service Prep,https://www.civilserviceprep.com/usa/sample.aspx
+Practice Civil Service Exam,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,TODO_SUBJECT,Civil Service Exams,https://www.test-guide.com/civil-service-exam.html
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Sylvan,https://find.sylvanlearning.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Grade Potential,https://www.gradepotentialtutoring.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Arbor Bridge,https://www.arborbridge.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,eTutor World,https://www.etutorworld.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Tutor Me,https://tutorme.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Cignition,https://fs.cignition.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Chegg,https://www.chegg.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Think Academy,https://www.thethinkacademy.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Club Z,https://clubztutoring.com
+Tutoring Options,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Expert ADHD,http://expertadhdcoaching.com
+Personal Growth,LOW,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=NnkzlS_QzYA
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Librivox,https://librivox.org
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,USF,https://etc.usf.edu/lit2go
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Loyal Books,http://www.loyalbooks.com
+Personal Growth,LOW,Aural,TODO_BLOOM,TODO_SUBJECT,Open Culture,https://www.openculture.com/freeaudiobooks
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Overdrive,https://help.overdrive.com/en-us/categories/getting-started.htm
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Scribl,https://scribl.com
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,UDEMY,https://www.udemy.com/developers/affiliate
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Developing Coursera,https://building.coursera.org/developer-program
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Open Learning World,http://www.openlearningworld.com/section_personality_development.html
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Class Central,https://www.classcentral.com/subject/personal-development
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Skills Share,https://www.skillshare.com/browse/time-management?via=browse-related-skills
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Believe and Create,https://believeandcreate.com/10-free-personal-growth-courses-that-can-change-your-life
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Skills You Need,https://www.skillsyouneed.com/ps/personal-development.html
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,EDUCBA,https://www.educba.com/25-self-development-skills-to-learn
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Lifehack,https://www.lifehack.org/290555/8-self-improvement-skills-learn-that-have-lifelong-benefits
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Psychology Today,https://www.psychologytoday.com/us/blog/click-here-happiness/202006/personal-development-9-skills-tips-and-examples
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Intelligent HQ,https://www.intelligenthq.com/25-self-development-skills-to-learn-for-free-online-this-year
+Personal Growth,LOW,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Personal Growth Channel,https://www.personalgrowthchannel.com/2018/03/5-outstanding-self-improvement-skills.html
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Brainscape,https://www.brainscape.com/subjects/mathematicsetreehouseapps.mathstraninig&hl=en_US&gl=US
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,cK12,https://www.ck12.org/student
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,PhET Simulations,https://phet.colorado.edu
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Singapore Math,https://www.singaporemath.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Math,Art of problem Solving,https://artofproblemsolving.com/school/course/prealgebra1#course-schedule
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Reading Institute,https://readingprograms.org/10th-11th-grade
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library eBooks,https://sfpl.org/books-and-media/ebook-collections
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Good Reads,https://www.goodreads.com/list/show/23017.FREE_Ebooks_For_Teens
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Chirp Books,https://landing.chirpbooks.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,All You Can Books,https://www.allyoucanbooks.com/page/free-offer
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Axis 360 Books,https://sfpl.axis360.baker-taylor.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,SF Public Library Children & Teens,https://sfpl.overdrive.com
+Academics,HIGH,Aural,Understand/Remember,Reading,You Tube -- Audio Books,https://www.youtube.com/user/GreatestAudioBooks
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,Reading,Kitaboo,https://kitaboo.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,FlipBooking,https://flippingbook.com/ebook-creator
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Visme,https://www.visme.co/ebook-creator
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Canva,https://www.canva.com/create/ebooks
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Evaluate/Create,Reading,Flip Snack,https://www.flipsnack.com/ebook-maker
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Analyze/Apply,Reading,Personal Learning Board,https://k12teacherstaffdevelopment.com/tlb/what-is-the-high-5-reading-strategy/
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Analyze/Apply,Science,Frog Dissection,https://apps.apple.com/us/app/frog-dissection/id377626675
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Science,Slader,https://www.slader.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Science,Study Daddy,https://studydaddy.com
+Academics,HIGH,Visual,TODO_BLOOM,Science,Academic Earth (videos),http://www.academicearth.org
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Sites.Google,https://sites.google.com/a/apps.district833.org/mr-wacker-s-google-page
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,History Skills,https://www.historyskills.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Analyze/Apply,History,Sargenotes,http://www.sargenotes.com/historical-reasoning-skills.html
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Analyze/Apply,History,Mr. C. Robertson,http://www.mrcrobertson.com/thinking-skills.html
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,American Historical Association,https://www.historians.org/teaching-and-learning
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Albert.io,https://www.albert.io/blog/5-most-important-historical-thinking-skills-for-the-ap-world-history-test
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,U of Oxford,https://www.history.ox.ac.uk/develop-your-skills-historian
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Locos APush,https://loscosapush.weebly.com/historical-thinking-skills.html
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Core Docs,https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/107452/AP_History_Reasoning_Skills.pdf
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,History,Pulitzer Prize,https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf
+Academics,HIGH,TODO_LEARNING_PERSONALITY,Evaluate/Create,Writing,826 Digital,https://826digital.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Writing,Nanowrimo,https://ywp.nanowrimo.org
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Writing,Common Sense,https://www.commonsense.org/education/app/evernote
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Writing,Noodle Tools,https://www.noodletools.com
+Academics,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,Writing,Quill,https://www.quill.org
+Academics,HIGH,Visual,TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=L1J9ZPVydrc
+Academics,HIGH,Visual,TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=TwYXDVs_uOg
+Academics,HIGH,Visual,TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=4swFGRhQoMI
+Academics,HIGH,Visual,TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=pHdzv1NfZRM
+Academics,HIGH,Visual,TODO_BLOOM,Writing,You Tube,https://www.youtube.com/watch?v=RSoRzTtwgP4
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,Analyze/Apply,Writing,Money Magic,https://playmoneymagic.com
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Rich Dad,https://store.richdad.com
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Um5gv3ZZY2M
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8hsROCUeBaU
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Opp Loans,https://www.opploans.com/oppu/articles/high-school-financial-literacy
+Financial Literacy,HIGH,TODO_LEARNING_PERSONALITY,Understand/Remember,TODO_SUBJECT,Time 4 Learning,https://www.time4learning.com
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Georgia Tech,https://www.gatech.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,U of Michigan/Ann Arbor,https://umich.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Virginia Tech,https://vt.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Texas A&M,https://www.tamu.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,UCLA,https://www.ucla.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Purdue,https://onlinedegrees.purdue.edu
+Top Colleges/Universities,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,U of Kentucky,https://math.as.uky.edu/where-can-math-take-me
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Howard University,https://home.howard.edu
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Clark Atlanta University,https://www.cau.edu
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Tuskegee University,https://www.tuskegee.edu
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Xavier University,https://www.xavier.edu
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Hampton University,http://www.hamptonu.edu
+HBCUs,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Florida A&M,https://www.famu.edu
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,My Future,https://myfuture.com/college/taking-college-entrance-exams
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Ivy Wise,https://www.ivywise.com/ivywise-knowledgebase/resources/article/sat-vs-act-which-college-entrance-exam-should-you-take
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Best Colleges,https://www.bestcolleges.com/resources/college-entrance-exams
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,CLT Exams,https://www.cltexam.com/practice-home
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Study Point,https://www.studypoint.com/ed/college-entrance-exams
+College Prep Exams,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Peterson’s,https://www.petersons.com/blog/petersons-releases-new-practice-tests-for-act-gre-emt-and-other-popular-test-prep-courses
+College Prep Exams,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=ino_JfkuC_I
+College Prep Exams,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=uQr-I8OsSjo
+College Prep Exams,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=-dn3H3D2d1k
+College Prep Exams,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Cmj_teMX8fc
+College Prep Exams,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=Ovv6qi9H_1A
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,College Readiness,https://collegereadiness.collegeboard.org/psat-nmsqt-psat-10/practice/full-length-practice-tests
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Kap Test,https://www.kaptest.com/study/psat/psat-free-practice-quizzes
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=zEsdr0C2Cdc
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Varsity Tutors,https://www.varsitytutors.com/psat-practice-tests
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Test Guide,https://www.test-guide.com/free-psat-practice-tests.html
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,UWorld,https://collegeprep.uworld.com
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Prepscholar,https://blog.prepscholar.com/complete-official-act-practice-tests-free-links
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,ACT,https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/math-practice-test-questions.html?page=0&chapter=0
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=IncD5oKQxC4
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,4 Tests,https://www.4tests.com/sat
+Practice College Exams - PSAT/ACT/SAT,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=PIGkcF-H1Ho
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Open Ed API,http://developers.opened.com
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,SBAC,http://SBAC
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Test Gorilla,https://www.testgorilla.com
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,IXL Diagnostic,https://www.ixl.com/standards/california/math/high-school
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MAP Growth,https://teach.mapnwea.org/impl/maphelp/Content/Testing/PracticeTest.htm
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,STAR Testing,http://starsamplequestions.org/starRTQ/search.jsp
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Lumos Learning,https://www.lumoslearning.com/llwp/resources/free-standardized-test-practice.html
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,CERTICA,https://certicasolutions.com/solutions/data-analytics-education-dashboards
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Stanford,https://online.stanford.edu/courses
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Harvard,https://www.extension.harvard.edu/course-catalog/courses
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Open Yale,https://oyc.yale.edu
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Berkeley,https://www.class-central.com/university/berkeley
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MIT OCW,https://ocw.mit.edu/index.htm
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Carnegie,http://oli.cmu.edu/learn-with-oli/see-all-oli-courses
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Code Academy,https://www.codecademy.com
+Practice College Exams - K-12 Academic Assessments,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Oxford: Podcasts,http://podcasts.ox.ac.uk/series 
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Oberlo,https://www.oberlo.com/blog/what-is-entrepreneurship
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Study.com,https://study.com/academy/lesson/what-is-an-entrepreneur-definition-characteristics-examples.html
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Business News Daily,https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Forbes,https://www.forbes.com/sites/georgedeeb/2014/11/07/the-4-types-of-entrepreneurs-which-type-are-you/?sh=34fb3b0b3e9e
+College Alternatives - Entrepreneurship,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=92ZmzD70sOU
+College Alternatives - Entrepreneurship,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=vifWUfoeWQI&feature=youtu.be
+College Alternatives - Entrepreneurship,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=az6NibAUf7Y
+College Alternatives - Entrepreneurship,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=N6zqatiur3A
+College Alternatives - Entrepreneurship,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=7UbxJCIUQRE
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,PDF Drive,https://www.pdfdrive.com/before-you-quit-your-job-books.html
+College Alternatives - Entrepreneurship,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Good Reads,https://www.goodreads.com/book/show/42775.Rich_Dad_s_Before_You_Quit_Your_Job
+Military Service - US Defense,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,@TODO_NAME,https://www.defense.gov/Our-Story/Our-Forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority
+Military Service - US Defense,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Military,https://www.military.com/join-armed-forces/us-military-branches-overview.html
+Military Service - US Defense,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Today’s Military,https://www.todaysmilitary.com/ways-to-serve/service-branches
+Military Service - US Defense,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,We Are the Mighty,https://www.wearethemighty.com/mighty-trending/uniformed-services-united-states-military
+Military Service - US Defense,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,The Balance Careers,https://www.thebalancecareers.com/u-s-military-101-3331988
+Military Service - US Defense,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=8x2Zo0ic2DM
+Military Service - US Defense,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
+Military Service - US Defense,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=RIDHIDYVzFM
+Military Service - US Defense,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=smZSq7S080c
+Military Service - US Defense,HIGH,Visual,TODO_BLOOM,TODO_SUBJECT,You Tube,https://www.youtube.com/watch?v=68oxmJJcV1Q
+California Common Core Standards,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,ELA/History/Science,http://www.corestandards.org/ELA-Literacy
+California Common Core Standards,HIGH,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MATH,http://www.corestandards.org/Math

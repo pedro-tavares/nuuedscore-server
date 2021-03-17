@@ -42,11 +42,11 @@ public class PersonController extends BaseController {
 	/**
 	 * Get all 
 	 * 
-	 * @return all the Person
 	 */
-    @GetMapping("/")
-    public ResponseEntity<List<Person>> all() {
-        return new ResponseEntity<List<Person>>((List<Person>) personService.findAll(), HttpStatus.OK);
+    @GetMapping("/list")
+    public ResponseEntity<List<Person>> list() {
+    	log.info("list");    	
+    	return new ResponseEntity<List<Person>>((List<Person>) personService.findAll(), HttpStatus.OK);
     }
 
     /**

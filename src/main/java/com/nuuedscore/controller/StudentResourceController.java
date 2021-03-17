@@ -35,8 +35,9 @@ public class StudentResourceController extends BaseController {
 	 * 
 	 */
     @GetMapping("/list")
-    public ResponseEntity<List<StudentResource>> all() {
-        return new ResponseEntity<List<StudentResource>>(studentResourceService.findAll(), HttpStatus.OK);
+    public ResponseEntity<List<StudentResource>> list() {
+    	log.info("list");
+    	return new ResponseEntity<List<StudentResource>>(studentResourceService.findAll(), HttpStatus.OK);
     }
  
 }

@@ -120,7 +120,7 @@ public class Person extends BaseDomain implements UserDetails {
     		email,
     		password,
     		RefGender.NEUTRAL, // gender
-    		RefLearningPersonality.TODO, // learningPersonality
+    		RefLearningPersonality.TODO_LEARNING_PERSONALITY, // learningPersonality
     		"", // phoneNumber
     		"", // organization
     		"", //classRoomCode
@@ -186,7 +186,7 @@ public class Person extends BaseDomain implements UserDetails {
 	    	this.refGender = RefGender.NEUTRAL;
 	    }
 	    if (this.refLearningPersonality == null) {
-	    	this.refLearningPersonality = RefLearningPersonality.TODO;
+	    	this.refLearningPersonality = RefLearningPersonality.TODO_LEARNING_PERSONALITY;
 	    }
 	    if (this.status == null) {
 	    	this.status = RefPersonStatus.ACTIVE;

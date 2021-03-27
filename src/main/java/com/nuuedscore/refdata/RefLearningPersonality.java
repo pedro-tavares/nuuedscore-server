@@ -16,7 +16,7 @@ public enum RefLearningPersonality {
 	VERBAL("Verbal"),
 	SOCIAL("Social"),
 	LOGICAL("Logical"),
-	PHYSICAL("Physical"),
+	KINESTHETIC("Kinesthetic"),
 	SOLITARY("Solitary"),
 	EGP("EGP");
 

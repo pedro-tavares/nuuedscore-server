@@ -21,12 +21,12 @@
 #TOPIC,LEARNING_PERSONALITY,BLOOM,SUBJECT,NAME,RESOURCE
 #
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MTBI Online,https://www.mbtionline.com/en-US/About-us
-Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Test Color,https://www.testcolor.com/
+Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Test Color,https://www.testcolor.com
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Color Quiz,https://www.colorquiz.com
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,DISC Online,https://www.truity.com/test/disc-personality-test
-Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,EIQ,https://greatergood.berkeley.edu/quizzes/ei_quiz
-Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,PATH TEST,https://www.goodjob.io/the-path-assessment-navigating-you-to-a-fulfilling-career
-Career Aptitude,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,iPersonic,https://www.ipersonic.com/career
+Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,CAL Berkeley Test,https://greatergood.berkeley.edu/quizzes/ei_quiz
+Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Good Job Test,https://www.goodjob.io/the-path-assessment-navigating-you-to-a-fulfilling-career
+Career Aptitude,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,iPersonic Test,https://www.ipersonic.com/career
 Career Aptitude,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,123 Test,https://www.123test.com/career-test/index.php
 Career Aptitude,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,My Majors,https://www.mymajors.com
 Career Aptitude,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MAPP,https://www.assessment.com

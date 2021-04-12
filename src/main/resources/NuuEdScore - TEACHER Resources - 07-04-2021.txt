@@ -1,25 +1,3 @@
-#
-#NuuEdScore - Teacher Resources 
-#
-#Learning Personality:
-#TODO_LEARNING_PERSONALITY
-#Visual
-#Aural
-#Verbal
-#Social
-#Logical
-#Physical
-#Solitary
-#EGP
-#
-#Bloom's Taxonomy:
-#TODO_BLOOM
-#Understand/Remember
-#Analyze/Apply
-#Evaluate/Create
-#
-#TOPIC,LEARNING_PERSONALITY,BLOOM,SUBJECT,NAME,RESOURCE
-#
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,MTBI Online,https://www.mbtionline.com/en-US/About-us
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Test Color,https://www.testcolor.com
 Personality Test,TODO_LEARNING_PERSONALITY,TODO_BLOOM,TODO_SUBJECT,Color Quiz,https://www.colorquiz.com

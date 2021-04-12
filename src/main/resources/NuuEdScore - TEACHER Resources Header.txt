@@ -1,0 +1,22 @@
+#
+#NuuEdScore - Teacher Resources 
+#
+#Learning Personality:
+#TODO_LEARNING_PERSONALITY
+#Visual
+#Aural
+#Verbal
+#Social
+#Logical
+#Physical
+#Solitary
+#EGP
+#
+#Bloom's Taxonomy:
+#TODO_BLOOM
+#Understand/Remember
+#Analyze/Apply
+#Evaluate/Create
+#
+#TOPIC,LEARNING_PERSONALITY,BLOOM,SUBJECT,NAME,RESOURCE
+#

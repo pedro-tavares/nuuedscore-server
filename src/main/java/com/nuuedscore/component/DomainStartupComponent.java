@@ -89,8 +89,8 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		/*
 		 * DOMAIN 
 		 */
-		createStudentDomain();
-		createTeacherDomain();
+		//createStudentDomain();
+		//createTeacherDomain();
 	}
 
 	/**
@@ -143,13 +143,13 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		
 		String path = System.getProperty("user.dir") + "/src/main/resources/";
 		
-		try (CSVReader reader = new CSVReader(new FileReader(path + "NuuEdScore - STUDENT Resources - RAW.txt"))) {
+		try (CSVReader reader = new CSVReader(new FileReader(path + "NuuEdScore - STUDENT Resources - 11-04-2021.txt"))) {
 			log.info("Reading STUDENT Resources...");
 			
 			List<String[]> r = reader.readAll();
 			r.forEach(s -> {
-				log.info("{},{},{},{},{},{},{}", s[0], s[1], s[2], s[3], s[4], s[5], s[6]);
-				studentResourceList.add(new StudentResource(s[0], s[1], s[2], s[3], s[4], s[5], s[6]));
+				log.info("{},{},{},{},{},{},{}", s[0], s[1], s[2], s[3], s[4], s[5], s[6], s[7]);
+				studentResourceList.add(new StudentResource(s[0], s[1], s[2], s[3], s[4], s[5], s[6], s[7]));
 			});
 			
 			log.info("Importing {} STUDENT Resources...", studentResourceList.size());

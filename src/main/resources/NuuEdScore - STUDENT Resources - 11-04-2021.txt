@@ -92,7 +92,7 @@ Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Understand/Remember,Technical Skills,L
 Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Job Hero,,https://www.jobhero.com/job-description/examples/medical/transcriptionist
 Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,Office Skills,You Tube,https://www.youtube.com/watch?v=OayCm263kIM
 Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,Healthcare Administration,You Tube,https://www.youtube.com/watch?v=4reRbEkecfY
-Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,,Safety Manager,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
+Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,Safety Manager,You Tube,https://www.youtube.com/watch?v=xHYOFjobc88
 Hard Skills,LOW,Visual,Analyze/Apply,Office Skills,Ultrasound Tech,You Tube,https://www.youtube.com/watch?v=uEfeW7sh9mM
 Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Environmental Science,,https://www.environmentalscience.org/career/sustainability-specialist
 Hard Skills,LOW,TODO_LEARNING_PERSONALITY,Analyze/Apply,Office Skills,Monster,,https://hiring.monster.com

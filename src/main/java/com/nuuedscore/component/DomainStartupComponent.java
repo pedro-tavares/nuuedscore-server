@@ -143,7 +143,7 @@ public class DomainStartupComponent implements ApplicationContextAware {
 		
 		String path = System.getProperty("user.dir") + "/src/main/resources/";
 		
-		try (CSVReader reader = new CSVReader(new FileReader(path + "NuuEdScore - STUDENT Resources - 11-04-2021.txt"))) {
+		try (CSVReader reader = new CSVReader(new FileReader(path + "NuuEdScore - STUDENT Resources.txt"))) {
 			log.info("Reading STUDENT Resources...");
 			
 			List<String[]> r = reader.readAll();

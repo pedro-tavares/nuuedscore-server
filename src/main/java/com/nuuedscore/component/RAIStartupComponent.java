@@ -20,7 +20,9 @@ import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
 import com.nuuedscore.domain.StudentResource;
+import com.nuuedscore.domain.TeacherResource;
 import com.nuuedscore.repository.StudentResourceRepository;
+import com.nuuedscore.repository.TeacherResourceRepository;
 
 import lombok.extern.slf4j.Slf4j;
 import ru.yandex.qatools.ashot.AShot;
@@ -40,6 +42,9 @@ public class RAIStartupComponent implements ApplicationContextAware {
 
 	@Autowired
 	StudentResourceRepository studentResourceRepository;
+
+	@Autowired
+	TeacherResourceRepository teacherResourceRepository;
 	
 	protected static WebServer server;
 	protected static WebDriver driver;
@@ -58,10 +63,18 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		
 		List<StudentResource> studentResources = studentResourceRepository.findAll();
 		for (StudentResource sr: studentResources) {
-			takeScreenShot(sr.getId(), sr.getResource());
-			//takeScreenShotWithScroll(sr.getId(), sr.getResource());
+			if (!sr.getResource().contains("youtube.com")) {
+				takeScreenShot("student", sr.getId(), sr.getResource());
+				takeScreenShotWithScroll("student", sr.getId(), sr.getResource());
+			}
 		}
-		
+		List<TeacherResource> teacherResources = teacherResourceRepository.findAll();
+		for (TeacherResource tr: teacherResources) {
+			if (!tr.getResource().contains("youtube.com")) {
+				takeScreenShot("teacher", tr.getId(), 	tr.getResource());
+				takeScreenShotWithScroll("teacher", tr.getId(), tr.getResource());
+			}
+		}		
 	}
 
 	public static void setup() {
@@ -71,18 +84,15 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		}
 	}
 	
-	public static void takeScreenShot(Long id, String site) {
+	public static void takeScreenShot(String folder, Long id, String site) {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
 		driver.get(site);
 		
-		File src;
-		
-		//take screenshot of the page         
-		src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
-			FileUtils.copyFile(src, new File("screenshots/" + id + "-1.png"));
+			FileUtils.copyFile(src, new File("screenshots/" + folder + "/" + id + "-1.png"));
 		} catch (IOException e) { 
 			e.printStackTrace();
 		}
@@ -90,7 +100,7 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		//driver.quit();
 	}
 
-	public static void takeScreenShotWithScroll(Long id, String site) {
+	public static void takeScreenShotWithScroll(String folder, Long id, String site) {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
@@ -101,7 +111,7 @@ public class RAIStartupComponent implements ApplicationContextAware {
 				driver);
 
 		try {
-			ImageIO.write(screenshot.getImage(), "PNG", new File("screenshots/" + id + "-2.png"));
+			ImageIO.write(screenshot.getImage(), "PNG", new File("screenshots/" + folder + "/" + id + "-2.png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

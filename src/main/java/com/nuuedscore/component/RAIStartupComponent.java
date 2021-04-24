@@ -2,6 +2,7 @@ package com.nuuedscore.component;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -55,26 +56,48 @@ public class RAIStartupComponent implements ApplicationContextAware {
 
 		setup();
 		
-		//takeScreenShot("https://nuuedscore.com");
-	
-		//String site = "http://developers.opened.com";
-		//takeScreenShot(site);
-		//takeScreenShotWithScroll(site);
+		String site;
+		//site = "http://nuuedscore.com";
+		//site = "http://developers.opened.com";
+//		site = "https://www.knovationlearning.com";
+//		takeScreenShot("student", 0L, site);
+//		takeScreenShotWithScroll("student", 0L, site);
+
+		List<String> advanceList = Arrays.asList(
+				"http://www.openlearningworld.com/section_personality_development.html",
+				"http://developers.opened.com",
+				"http://SBAC",
+				"http://study.com"
+		);
 		
+		int counter = 1;
 		List<StudentResource> studentResources = studentResourceRepository.findAll();
 		for (StudentResource sr: studentResources) {
 			if (!sr.getResource().contains("youtube.com")) {
-				takeScreenShot("student", sr.getId(), sr.getResource());
-				takeScreenShotWithScroll("student", sr.getId(), sr.getResource());
+				
+				// parse non advancing
+				if (advanceList.contains(sr.getResource())) {
+					log.info("SKIPPING Screen Shot for {}", sr.getResource());
+					continue;
+				}
+
+				// drive
+				takeScreenShot("student", counter, sr.getId(), sr.getResource());
+//				takeScreenShotWithScroll("student", sr.getId(), sr.getResource());
 			}
+			counter++;
 		}
+		
+		counter = 1;
 		List<TeacherResource> teacherResources = teacherResourceRepository.findAll();
 		for (TeacherResource tr: teacherResources) {
 			if (!tr.getResource().contains("youtube.com")) {
-				takeScreenShot("teacher", tr.getId(), 	tr.getResource());
-				takeScreenShotWithScroll("teacher", tr.getId(), tr.getResource());
+				takeScreenShot("teacher", counter, tr.getId(), 	tr.getResource());
+//				takeScreenShotWithScroll("teacher", tr.getId(), tr.getResource());
 			}
-		}		
+			counter++;
+		}
+		
 	}
 
 	public static void setup() {
@@ -84,38 +107,53 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		}
 	}
 	
-	public static void takeScreenShot(String folder, Long id, String site) {
+	public static void takeScreenShot(String folder, Integer counter, Long id, String site) {
+		String path = "screenshots/" + folder + "/" + id + "-1.png";
+		
+		File file = new File(path);
+		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 
-		driver.get(site);
-		
-		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		try {
-			FileUtils.copyFile(src, new File("screenshots/" + folder + "/" + id + "-1.png"));
-		} catch (IOException e) { 
-			e.printStackTrace();
+		if (!file.exists()) {	
+			log.info("takeScreenShot:{}-{}-{}-[{}]", folder, counter, id, site);
+			
+			driver.get(site);
+			
+			File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+			try {
+				FileUtils.copyFile(src, new File(path));
+			} catch (IOException e) { 
+				e.printStackTrace();
+			}
+			
+			//driver.quit();
 		}
-		
-		//driver.quit();
 	}
-
-	public static void takeScreenShotWithScroll(String folder, Long id, String site) {
+	
+	public static void takeScreenShotWithScroll(String folder, Integer counter, Long id, String site) {
+		String path = "screenshots/" + folder + "/" + id + "-2.png";
+				
+		File file = new File(path);
+	
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
-
-		driver.get(site);
-
-		//take screenshot of the entire page             
-		Screenshot screenshot = new AShot().shootingStrategy(ShootingStrategies.viewportPasting(10000)).takeScreenshot(
-				driver);
-
-		try {
-			ImageIO.write(screenshot.getImage(), "PNG", new File("screenshots/" + folder + "/" + id + "-2.png"));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
 		
+		if (!file.exists()) {
+			log.info("takeScreenShotWithScroll:{}-{}-{}-[{}]", folder, counter, id, site);
+			
+			driver.get(site);
+	
+			//take screenshot of the entire page             
+			Screenshot screenshot = new AShot().shootingStrategy(ShootingStrategies.viewportPasting(10000)).takeScreenshot(
+					driver);
+	
+			try {
+				ImageIO.write(screenshot.getImage(), "PNG", new File(path));
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
 		//driver.quit();
 	}
 }

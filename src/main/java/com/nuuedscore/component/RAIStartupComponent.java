@@ -38,7 +38,7 @@ import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
  * 
  */
 @Slf4j
-@Component
+//@Component
 public class RAIStartupComponent implements ApplicationContextAware {
 
 	@Autowired
@@ -93,7 +93,7 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		for (TeacherResource tr: teacherResources) {
 			if (!tr.getResource().contains("youtube.com")) {
 				takeScreenShot("teacher", counter, tr.getId(), 	tr.getResource());
-//				takeScreenShotWithScroll("teacher", tr.getId(), tr.getResource());
+				takeScreenShotWithScroll("teacher", counter, tr.getId(), tr.getResource());
 			}
 			counter++;
 		}
@@ -108,7 +108,7 @@ public class RAIStartupComponent implements ApplicationContextAware {
 	}
 	
 	public static void takeScreenShot(String folder, Integer counter, Long id, String site) {
-		String path = "screenshots/" + folder + "/" + id + "-1.png";
+		String path = "resources/" + folder + "/" + id + "-1.png";
 		
 		File file = new File(path);
 		
@@ -132,7 +132,7 @@ public class RAIStartupComponent implements ApplicationContextAware {
 	}
 	
 	public static void takeScreenShotWithScroll(String folder, Integer counter, Long id, String site) {
-		String path = "screenshots/" + folder + "/" + id + "-2.png";
+		String path = "resources/" + folder + "/" + id + "-2.png";
 				
 		File file = new File(path);
 	

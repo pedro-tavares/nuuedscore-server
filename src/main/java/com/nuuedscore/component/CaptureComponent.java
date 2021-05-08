@@ -31,7 +31,7 @@ import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
 
 /**
- * RAI Startup Component
+ * Capture Startup Component
  *
  * @author PATavares
  * @since Feb 2021
@@ -39,7 +39,7 @@ import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
  */
 @Slf4j
 //@Component
-public class RAIStartupComponent implements ApplicationContextAware {
+public class CaptureComponent implements ApplicationContextAware {
 
 	@Autowired
 	StudentResourceRepository studentResourceRepository;
@@ -74,7 +74,6 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		List<StudentResource> studentResources = studentResourceRepository.findAll();
 		for (StudentResource sr: studentResources) {
 			if (!sr.getResource().contains("youtube.com")) {
-				
 				// parse non advancing
 				if (advanceList.contains(sr.getResource())) {
 					log.info("SKIPPING Screen Shot for {}", sr.getResource());
@@ -82,8 +81,8 @@ public class RAIStartupComponent implements ApplicationContextAware {
 				}
 
 				// drive
-				takeScreenShot("student", counter, sr.getId(), sr.getResource());
-//				takeScreenShotWithScroll("student", sr.getId(), sr.getResource());
+				//takeScreenShot("student", counter, sr.getId(), sr.getResource());
+				//takeScreenShotWithScroll("student", counter, sr.getId(), sr.getResource());
 			}
 			counter++;
 		}
@@ -92,8 +91,8 @@ public class RAIStartupComponent implements ApplicationContextAware {
 		List<TeacherResource> teacherResources = teacherResourceRepository.findAll();
 		for (TeacherResource tr: teacherResources) {
 			if (!tr.getResource().contains("youtube.com")) {
-				takeScreenShot("teacher", counter, tr.getId(), 	tr.getResource());
-				takeScreenShotWithScroll("teacher", counter, tr.getId(), tr.getResource());
+				//takeScreenShot("teacher", counter, tr.getId(), 	tr.getResource());
+				//takeScreenShotWithScroll("teacher", counter, tr.getId(), tr.getResource());
 			}
 			counter++;
 		}

@@ -10,6 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
@@ -41,7 +42,7 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 
 	private boolean CONNECTED;
 
-	@Scheduled(fixedDelay = 4000)
+	@Scheduled(fixedDelay = 5000)
 	private void gate() {
 		//log.info(".");
 		if (!CONNECTED) {
@@ -71,7 +72,7 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
                 .POST(HttpRequest.BodyPublishers.ofString(request_json))
                 .uri(URI.create(TOKEN_URL))
                 .setHeader("User-Agent", "RAI Client") // add request header
-                .header("Content-Type", "application/json")
+                .header("Content-Type", MediaType.APPLICATION_JSON_VALUE)
                 .build();
 
         HttpResponse<String> response = null;

@@ -16,9 +16,11 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StopWatch;
 
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.nuuedscore.dto.ACTToken;
+import com.nuuedscore.json.JSON;
 import com.nuuedscore.service.BaseService;
 import com.nuuedscore.service.IResourceGatewayService;
-import com.nuuedscore.util.JSONUtils;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -41,6 +43,8 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 
 	private String TOKEN_URL = "https://dev-auth.act-et.org/oauth/token";
 
+	//https://lor.act-et.org/ims/rs/v1p0/resources?filter=extensions.secure_url='true' AND (extensions.breakframe='false' OR extensions.breakframe='NULL')  AND learningObjectives.caseItemGUID='c8a224da-4173-41c5-9311-0e07622efed0'&limit=25&extensions.expandObjectives=true
+		
 	private boolean CONNECTED;
 
 	@Scheduled(fixedDelay = 5000)
@@ -68,11 +72,11 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 		map.put("audience", "dev-minerva");
 		map.put("grant_type", "client_credentials");
 
-		String request_json = JSONUtils.mapToJson(map);
+		String request_json = JSON.mapToJson(map);
 
 		HttpRequest request = HttpRequest.newBuilder()
 				.POST(HttpRequest.BodyPublishers.ofString(request_json)).uri(URI
-				.create(TOKEN_URL)).setHeader("User-Agent", "RAI Client") 
+				.create(TOKEN_URL)).setHeader("User-Agent", "NuuEdScore Client") 
 				.header("Content-Type", MediaType.APPLICATION_JSON_VALUE).build();
 
 		HttpResponse<String> response = null;
@@ -84,8 +88,16 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 				CONNECTED = true;
 				log.info("CONNECTED to ACT Gateway in {}ms", stopWatch.getTotalTimeMillis());
 				log.info("{}\n{}", response.statusCode(), response.body());
-			}
 
+				ACTToken actToken = JSON.mapper.readValue(response.body(), ACTToken.class);
+				
+				log.info("ACTtoken SCOPE:");
+				String scopes[] = actToken.getScope().split("AND");
+				for (int i=0; i<scopes.length; i++) {
+					log.info(scopes[i]);
+				}
+			}
+			
 		} catch (IOException | InterruptedException e) {
 			log.error("ERROR CONNECTING to ACT Gateway:{}", e.getMessage());
 		}

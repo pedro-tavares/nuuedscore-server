@@ -16,7 +16,6 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StopWatch;
 
-import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.nuuedscore.dto.ACTToken;
 import com.nuuedscore.json.JSON;
 import com.nuuedscore.service.BaseService;
@@ -42,9 +41,8 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 	StopWatch stopWatch = new StopWatch();
 
 	private String TOKEN_URL = "https://dev-auth.act-et.org/oauth/token";
-
-	//https://lor.act-et.org/ims/rs/v1p0/resources?filter=extensions.secure_url='true' AND (extensions.breakframe='false' OR extensions.breakframe='NULL')  AND learningObjectives.caseItemGUID='c8a224da-4173-41c5-9311-0e07622efed0'&limit=25&extensions.expandObjectives=true
-		
+	private ACTToken ACT_TOKEN;
+	
 	private boolean CONNECTED;
 
 	@Scheduled(fixedDelay = 5000)
@@ -87,12 +85,16 @@ public class ResourceGatewayService extends BaseService implements IResourceGate
 				stopWatch.stop();
 				CONNECTED = true;
 				log.info("CONNECTED to ACT Gateway in {}ms", stopWatch.getTotalTimeMillis());
-				log.info("{}\n{}", response.statusCode(), response.body());
-
-				ACTToken actToken = JSON.mapper.readValue(response.body(), ACTToken.class);
+				log.info("{}", response.statusCode());
+				//log.info("{}", response.body());
+				
+				ACT_TOKEN = JSON.mapper.readValue(response.body(), ACTToken.class);
+				
+				log.info("ACTtoken ACCESS_TOKEN:");
+				log.info("{}", ACT_TOKEN.getAccessToken());
 				
 				log.info("ACTtoken SCOPE:");
-				String scopes[] = actToken.getScope().split("AND");
+				String scopes[] = ACT_TOKEN.getScope().split("AND");
 				for (int i=0; i<scopes.length; i++) {
 					log.info(scopes[i]);
 				}

@@ -19,7 +19,7 @@ public class NuuEdScoreApplication {
 
 	public static void main(String[] args) {
 		log.info("NuuED SCORE by JavaLabs - v0.1 BETA");
-		log.info("Reactive AI - While some watched from far behind... Learn as Apply. Refuse to Stay Down.");
+		log.info("Reactive AI - While some watched from far behind... Learn as Apply");
 		log.info("user.home @ {}", System.getProperty("user.home"));
 		log.info("user.dir @ {}", System.getProperty("user.dir"));
 		

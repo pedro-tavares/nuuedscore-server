@@ -130,7 +130,8 @@ public class ResourceACTGatewayService extends BaseService implements IResourceG
 		// search URL
 //		String FILTER = "";
 		//String FILTER = "?filter=search~'english'";
-		String FILTER = "?filter=learningResourceType='Assessment/Formative'";
+		//String FILTER = "?filter=learningResourceType='Assessment/Formative'";
+		String FILTER = "?filter=learningResourceType='Media/Video'";
 		
 		String URIString = RESOURCE_URL + FILTER;
 		log.info("\n\n{}\n", URIString); 
@@ -138,7 +139,6 @@ public class ResourceACTGatewayService extends BaseService implements IResourceG
 		HttpRequest request = HttpRequest.newBuilder()
                 .GET()
                 .uri(URI.create(URIString))
-                //.setHeader("Authorization", "Bearer " + ACT_TOKEN.getAccessToken())
                 .header(NuuEdHTTP.USER_AGENT, NuuEdHTTP.NUUEDSCORE_CLIENT) 
                 .header("Authorization", "Bearer " + ACT_TOKEN.getAccessToken())
                 .header("user_id", NuuEdHTTP.NUUEDSCORE_CLIENT)

@@ -64,10 +64,10 @@ public class CaptureComponent implements ApplicationContextAware {
 //		takeScreenShotWithScroll("student", 0L, site);
 
 		List<String> advanceList = Arrays.asList(
-				"http://www.openlearningworld.com/section_personality_development.html",
-				"http://developers.opened.com",
-				"http://SBAC",
-				"http://study.com"
+				//"http://www.openlearningworld.com/section_personality_development.html",
+				//"http://developers.opened.com",
+				//"http://SBAC",
+				//"http://study.com"
 		);
 		
 		int counter = 1;
@@ -81,8 +81,8 @@ public class CaptureComponent implements ApplicationContextAware {
 				}
 
 				// drive
-				//takeScreenShot("student", counter, sr.getId(), sr.getResource());
-				//takeScreenShotWithScroll("student", counter, sr.getId(), sr.getResource());
+				takeScreenShot("student", counter, sr.getId(), sr.getResource());
+				takeScreenShotWithScroll("student", counter, sr.getId(), sr.getResource());
 			}
 			counter++;
 		}

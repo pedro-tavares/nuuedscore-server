@@ -80,10 +80,13 @@ public class ResourceACTGatewayService extends BaseService implements IResourceG
 
 		String request_json = JSON.mapToJson(map);
 
+		log.info("request_json:\n{}", request_json);
+		
 		HttpRequest request = HttpRequest.newBuilder()
 				.POST(HttpRequest.BodyPublishers.ofString(request_json))
 				.uri(URI.create(TOKEN_URL))
-				.setHeader(NuuEdHTTP.USER_AGENT, NuuEdHTTP.NUUEDSCORE_CLIENT) 
+				//.setHeader(NuuEdHTTP.USER_AGENT, NuuEdHTTP.NUUEDSCORE_CLIENT) 
+				.setHeader("user_id", NuuEdHTTP.NUUEDSCORE_CLIENT)
 				.header(NuuEdHTTP.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
 				.build();
 
